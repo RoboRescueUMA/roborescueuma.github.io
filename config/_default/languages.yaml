@@ -7,15 +7,7 @@
 es:
   languageCode: es
   contentDir: content/es
-     title: Titulo espanol
  
- params:
- description: Site description in Chinese...
-  menu:
-    main:
-      - name: Yo
-        url: '#about'
-        weight: 1
 
 en:
   languageCode: en-us

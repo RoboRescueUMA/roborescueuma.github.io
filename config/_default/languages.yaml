@@ -5,9 +5,10 @@
 # Default language
 # Uncomment the lines below to configure your website in a second language.
 es:
-  languageCode: es-mx
+  languageCode: es
   contentDir: content/es
-     title: Titulo español ----
+     title: Titulo espanol
+ 
  params:
  description: Site description in Chinese...
   menu:

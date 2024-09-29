@@ -8,18 +8,20 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        RoboRescue
+        UMA
+        
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Robotics Camp, teaching, and practice since its founding in 2018.
+        The **RoboRescue Uma** Equipo de robótica de rescate de la Universidad de Málaga ha sido un club de estudiantes para el estudio, aprendizaje y práctica de la Robótica, fundado en 2019.
   
   - block: collection
     content:
-      title: Latest News
+      title: Últimas Noticias
       subtitle:
       text:
       count: 5

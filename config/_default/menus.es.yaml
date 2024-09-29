@@ -7,7 +7,7 @@ main:
   - name: Conócenos
     url: conocenos
     weight: 10
-  - name:Patrocinadores
+  - name: Patrocinadores
     url: noticias
     weight: 20
   - name: Equipo

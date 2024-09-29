@@ -4,7 +4,7 @@ title: Antonio Munoz
 
 # Full Name (for SEO)
 first_name: Antonio
-last_name: Muñoz
+last_name: Munoz
 
 # Is this the primary user of the site?
 superuser: true

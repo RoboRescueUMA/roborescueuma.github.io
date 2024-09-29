@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Antonio Munoz
+title: Antonio J. Muñoz
 
 # Full Name (for SEO)
 first_name: Antonio
-last_name: Munoz
+last_name: Muñoz
 
 # Is this the primary user of the site?
 superuser: true
@@ -42,9 +42,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
- # - icon: linkedin
- #   icon_pack: fab
-  #  link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/
+ - icon: linkedin
+    icon_pack: fab
+   link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/
  #- icon: instagram
  #   icon_pack: fab
   #  link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/

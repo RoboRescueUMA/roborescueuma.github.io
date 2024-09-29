@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Wowchemy Research Group** has been a center of excellence for Robotics Camp, teaching, and practice since its founding in 2018.
   
   - block: collection
     content:
@@ -74,7 +74,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Conoce el equipo →" %}}
     design:
       columns: '1'
 ---

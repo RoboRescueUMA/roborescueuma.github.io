@@ -1,41 +1,31 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Antonio J. Muñoz
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Antonio
+last_name: Muñoz
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Coordinador
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Universidad de Málaga
+    url: 'www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mis intereses incluyen robótica de recate, automática, y programación con Matlab Simulink.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robot Control
+  - Inteligencia Artificial
+  - Diseño y Programación con Simulink de Robots
 
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +34,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:aj@uma.es'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: linkedin
+    icon_pack: brands
+    link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/
+ - icon: instagram
+    icon_pack: brands
+    link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ajmunoz00
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

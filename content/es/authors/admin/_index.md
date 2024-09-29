@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Antonio Muñoz
+title: Antonio Munoz
 
 # Full Name (for SEO)
 first_name: Antonio

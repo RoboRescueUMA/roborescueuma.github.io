@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: Equipo
+  - block: people
     content:
       title: Conoce el Equipo
       # Choose which groups/teams of users to display.

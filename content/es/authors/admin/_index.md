@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position
 role: Coordinador
+
 # Organizations/Affiliations
 organizations:
   - name: Universidad de Málaga

@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Bienvenido al Equipo de Robótica de Rescate
+        content: Echa un vistazo en lo que estamos trabajando...
         align: center
         background:
           image:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Talleres, Charlas y Lunch & Learn ☕️
+        content: '¡Comparte tu conocimiento con el equipo y descubre el excitante mundo de la robótica con nosotros!'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Taller de Baterias para Robots
+        content: '¡Construyendo la batería del nuevo robot HORU!'
         align: right
         background:
           image:
@@ -41,8 +41,8 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: ¨¡Únete al Equipo!
+          url: https://forms.gle/wGeDcg52BzjjMgvU8
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

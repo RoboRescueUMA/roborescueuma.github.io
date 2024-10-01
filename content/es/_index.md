@@ -9,15 +9,17 @@ sections:
     content:
       title: |
         RoboRescue UMA
-    
+     kk
       image:
         filename: logoh.jpg
       text: |
         <br>
                 
-    Somos un equipo compuesto por estudiantes de diversos ámbitos pertenecientes a
+
+     Somos un equipo compuesto por estudiantes de diversos ámbitos pertenecientes a
 la Universidad de Málaga unidos con un fin común. Nos dedicamos al desarrollo
 tecnológico-robótico de rescate.
+
 Este proyecto comenzó en 2019, con la intención de dar visibilidad a las posibles
 soluciones prácticas que podemos encontrar gracias a la robótica, y a la
 automatización.

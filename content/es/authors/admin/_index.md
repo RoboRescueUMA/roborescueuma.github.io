@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-    - course: Licenciado en Infomatica
+    - course: Licenciado en Informática
       institution: Universidad de Málaga
-      year: 1990
+      year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

@@ -22,7 +22,7 @@ sections:
   
   - block: collection
     content:
-      title: Control y Montaje Orugas deel robot HORU
+      title: Control y Montaje Orugas del robot HORU
       subtitle:
       text:
       count: 5
@@ -77,7 +77,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Conoce el equipo →" %}}
+        {{% cta cta_link="./equipo/" cta_text="Conoce el equipo →" %}}
     design:
       columns: '1'
 ---

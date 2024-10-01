@@ -8,20 +8,23 @@ sections:
   - block: hero
     content:
       title: |
-        RoboRescue
-        UMA
-        
-        Equipo de Robótica de Rescate de la Universidad de Málaga
+        RoboRescue UMA
+    
       image:
-        filename: welcome.jpg
+        filename: logoh.png
       text: |
         <br>
-        
-        **RoboRescue Uma** es el Equipo de robótica de rescate de la Universidad de Málaga, ha sido un club de estudiantes para el estudio, aprendizaje y práctica de la Robótica, fundado en 2019.
+                
+    Somos un equipo compuesto por estudiantes de diversos ámbitos pertenecientes a
+la Universidad de Málaga unidos con un fin común. Nos dedicamos al desarrollo
+tecnológico-robótico de rescate.
+Este proyecto comenzó en 2019, con la intención de dar visibilidad a las posibles
+soluciones prácticas que podemos encontrar gracias a la robótica, y a la
+automatización.
   
   - block: collection
     content:
-      title: Últimas Noticias
+      title: Control y Montaje Orugas deel robot HORU
       subtitle:
       text:
       count: 5
@@ -60,7 +63,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Testing
       text: ""
       count: 5
       filters:

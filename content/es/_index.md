@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         RoboRescue UMA
-    kk
+         
       image:
         filename: logoh.jpg
       text: |

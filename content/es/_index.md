@@ -11,7 +11,7 @@ sections:
         RoboRescue UMA
     
       image:
-        filename: logoh.png
+        filename: logoh.jpg
       text: |
         <br>
                 

@@ -14,7 +14,6 @@ sections:
         filename: logoh.jpg
       text: |
         <br>
-               
             Somos un equipo compuesto por estudiantes de diversos ámbitos pertenecientes a
             la Universidad de Málaga unidos con un fin común. Nos dedicamos al desarrollo
             tecnológico-robótico de rescate.

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Antonio J. Muñoz
+title: Eva Román Aguirre
 
 # Full Name (for SEO)
-first_name: Antonio
-last_name: Muñoz
+first_name: Eva
+last_name: Román
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-    - course: Licenciado en Informática
+    - course: Marketing e Investigación de Mercados
       institution: Universidad de Málaga
-      year: 2000
+      year: 2024 (3º)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

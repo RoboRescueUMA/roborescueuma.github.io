@@ -15,7 +15,7 @@ role: Coordinador
 # Organizations/Affiliations
 organizations:
   - name: Universidad de Málaga
-    url: 'www.uma.es'
+    url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mis intereses incluyen robótica de recate, automática, y programación con Matlab Simulink.
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: Licenciado en Infomatica
+      institution: Universidad de Málaga
+      year: 1990
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

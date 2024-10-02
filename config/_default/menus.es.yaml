@@ -7,18 +7,18 @@ main:
   - name: Conócenos
     url: conocenos
     weight: 10
-  - name: Patrocinadores
-    url: noticias
-    weight: 20
+  #- name: Patrocinadores
+    # url: noticias
+    # weight: 20
   - name: Equipo
     url: equipo
     weight: 30
-  - name: Eventos
-    url: eventos
-    weight: 40
-  - name: Publicaciones
-    url: publicaciones
-    weight: 50
+ # - name: Eventos
+ #   url: eventos
+  #  weight: 40
+ # - name: Publicaciones
+ #   url: publicaciones
+ #   weight: 50
   - name: Contacto
     url: contacto
     weight: 60

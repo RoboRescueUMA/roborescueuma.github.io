@@ -18,12 +18,12 @@ organizations:
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses incluyen robótica de recate, automática, y programación con Matlab Simulink.
+bio: Mis intereses son la fotografía, la lectura y el diseño.
 
 interests:
-  - Robot Control
-  - Inteligencia Artificial
-  - Diseño y Programación con Simulink de Robots
+  - NeuroMarketing
+  - BigData
+  - Investigación de Mercados y Comportamiento del consumidor
 
 education:
   courses:
@@ -38,19 +38,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:aj@uma.es'
+    link: 'mailto:evaroman@uma.es'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/
+    link: https://www.linkedin.com/in/eva-rom%C3%A1n-0587092a2/
   - icon: instagram
     icon_pack: fab
     link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/
   - icon: github
     icon_pack: fab
-    link: https://github.com/ajmunoz00
+    link: https://github.com/swaniman
 
     
 # Link to a PDF of your resume/CV from the About widget.

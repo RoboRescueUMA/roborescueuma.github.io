@@ -73,4 +73,5 @@ user_groups:
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Soy Eva, estudiante de Marketing y la investigación de mercados en la UMA. 
+Soy una persona planificadora que se adapta muy bien a los problemas. Mi objetivo a corto plazo es ganar experiencia de cualquier tipo relacionado con mi carrera universitaria para conseguir mis objetivos a largo plazo.

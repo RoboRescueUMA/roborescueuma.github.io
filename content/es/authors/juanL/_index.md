@@ -3,8 +3,8 @@
 title: Juan López Puebla
 
 # Full Name (for SEO)
-first_name: Antonio
-last_name: Muñoz
+first_name: Juan
+last_name: López
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,39 +18,33 @@ organizations:
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses incluyen robótica de recate, automática, y programación con Matlab Simulink.
+bio: Interesado en Robótica de rescate y aplicación profesional de drones. 
 
 interests:
   - Robot Control
   - Inteligencia Artificial
-  - Diseño y Programación con Simulink de Robots
+  - Drones
 
 education:
   courses:
-    - course: Licenciado en Informática
+    - course: Estudiante de ingeniería Electrónica, Robótica y Mecatrónica.
       institution: Universidad de Málaga
-      year: 2000
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:aj@uma.es'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/
+    link: https:www.linkedin.com/in/juanlopezpuebla
   - icon: instagram
     icon_pack: fab
-    link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/
+    link: https://www.instagram.com/_juanlp_/
   - icon: github
     icon_pack: fab
-    link: https://github.com/ajmunoz00
+    link: https://github.com/JuanLopezP
 
     
 # Link to a PDF of your resume/CV from the About widget.

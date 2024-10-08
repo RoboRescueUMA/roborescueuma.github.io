@@ -3,8 +3,8 @@
 title: Mario García Jiménez
 
 # Full Name (for SEO)
-first_name: Angel
-last_name: Agüera
+first_name: Mario
+last_name: García
 
 # Is this the primary user of the site?
 superuser: false

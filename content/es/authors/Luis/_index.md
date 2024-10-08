@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Luis España
+title: Luis España Carnero
 
 # Full Name (for SEO)
 first_name: Luis
-last_name: España
+last_name: España Carnero
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,12 +18,12 @@ organizations:
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses incluyen robótica de recate, automática, y programación con Matlab Simulink.
+bio: Mis intereses incluyen robótica, impresión 3D y diseño 3D.
 
 interests:
-  - Robot Control
-  - Inteligencia Artificial
-  - Diseño y Programación con Simulink de Robots
+  - Impresión 3D
+  - Diseño 3D
+  - Robótica y electrónica
 
 education:
   courses:
@@ -38,19 +38,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:aj@uma.es'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:luisesp@uma.es'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/
+    link: https://www.linkedin.com/in/luis-espa%C3%B1a-carnero-587915307/
   - icon: github
     icon_pack: fab
-    link: https://github.com/ajmunoz00
+    link: https://github.com/LuisEC0
 
     
 # Link to a PDF of your resume/CV from the About widget.
@@ -70,7 +64,3 @@ highlight_name: false
 user_groups:
   - Jefes de Departamento
 ---
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

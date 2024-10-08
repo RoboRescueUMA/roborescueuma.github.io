@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Angel Agüera Ruíz
+title: Liliya Bakhurska
 
 # Full Name (for SEO)
 first_name: Angel
@@ -10,7 +10,7 @@ last_name: Agüera
 superuser: false
 
 # Role/position
-role: Ingeniero Hardware
+role: Ingeniera Software
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Hardware
+  - Software
 ---
 
 

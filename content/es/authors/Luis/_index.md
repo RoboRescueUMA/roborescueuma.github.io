@@ -64,3 +64,6 @@ highlight_name: false
 user_groups:
   - Jefes de Departamento
 ---
+
+
+Soy Luis, estudio Ingeniería Robótica en la UMA. Mi objetivo es complementar mis estudios universitarios para adquirir más conocimiento y ganar experiencia y práctica en proyectos de equipo, siempre con ganas de aprender más y mejorar.

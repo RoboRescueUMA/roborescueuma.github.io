@@ -38,7 +38,7 @@ education:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https:www.linkedin.com/in/juanlopezpuebla
+    link: https://www.linkedin.com/in/juanlopezpuebla
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/_juanlp_/

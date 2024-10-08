@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Angel Agüera Ruíz
+title: Jose Pablo Recaño
 
 # Full Name (for SEO)
 first_name: Angel

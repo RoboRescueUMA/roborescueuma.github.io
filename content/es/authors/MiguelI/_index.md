@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Diego Caruana Montes
+title: Miguel Ian García Pozo
 
 # Full Name (for SEO)
 first_name: Antonio

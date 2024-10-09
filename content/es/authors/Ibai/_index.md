@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: Estudiante de ingeniería Electrónica, Robótica y Mecatrónica
+    - course: Estudiante de 2° de ingeniería Electrónica, Robótica y Mecatrónica
       institution: Universidad de Málaga
       year: 2023
 

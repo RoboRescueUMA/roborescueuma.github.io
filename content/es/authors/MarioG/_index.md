@@ -40,12 +40,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:mariogj.03@uma.es'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/mario-garcía-jiménez-230b83234
+  - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/marioogarciia17/
   - icon: github

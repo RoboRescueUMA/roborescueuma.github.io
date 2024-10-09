@@ -29,7 +29,7 @@ education:
   courses:
     - course: Estudiante de ingeniería Electrónica, Robótica y Mecatrónica.
       institution: Universidad de Málaga
-      year: 2020
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

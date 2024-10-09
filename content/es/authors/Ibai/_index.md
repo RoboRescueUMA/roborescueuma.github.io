@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: Estudiante de ingeniería Electrónica, Robótica y Mecatrónica.
+    - course: Estudiante de ingeniería Electrónica, Robótica y Mecatrónica
       institution: Universidad de Málaga
       year: 2023
 
@@ -67,4 +67,4 @@ user_groups:
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputat
+Soy Ibai, un estudiante con una buena rutina de estudio centrado en acabar la carrera priorizando el aprendizaje sobre todo. Por ello mismo pertenezco al equipo, para aprender lo máximo posible sobre el proceso de desarrollo de un robot y el trabajo en equipo que esto supone. Abierto a todas las experiencias enriquecedoras en mi formación, ¡seguimos apoyando en lo que podamos!

@@ -21,14 +21,15 @@ organizations:
 bio: Mis intereses incluyen robótica, automática, y programación con Matlab Simulink.
 
 interests:
-  - Diseño Gráfico
+  - Diseño 3D
+  - Impresion 3D
   - Diseño y programación de Robots
   - Automática con PLC
 
 education:
   courses:
-    - course: Técnico en Automatización y Robótica Industrial
-      institution: Colegio Concertado San José
+    - course: Técnico en Sistemaas Electrotécnicos y Automatizados
+      institution: I.E.S Al-Baytar
       year: 2023
     - course: Estudiante de Ingeniería Electrónica Industrial
       institution: Universidad de Málaga
@@ -41,19 +42,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jaguayo@uma.es'
+    link: 'mailto:angel.aguera@uma.es'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com
+    link: 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/fco-javier-aguayo-hdez-10a50b295/
+    link: 
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/jaguayo27/
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/Jackks27
+    link: 
 
     
 # Link to a PDF of your resume/CV from the About widget.

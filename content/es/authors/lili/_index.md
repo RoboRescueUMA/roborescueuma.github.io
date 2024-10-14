@@ -3,8 +3,8 @@
 title: Liliya Bakhurska
 
 # Full Name (for SEO)
-first_name: Angel
-last_name: Agüera
+first_name: Liliya
+last_name: Bakhurska
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,18 +21,14 @@ organizations:
 bio: Mis intereses incluyen robótica, automática, y programación con Matlab Simulink.
 
 interests:
-  - Diseño Gráfico
-  - Diseño y programación de Robots
-  - Automática con PLC
+  - Programación
+  - Automatización
+  - Robótica y electrónica
 
 education:
   courses:
-    - course: Técnico en Automatización y Robótica Industrial
-      institution: Colegio Concertado San José
-      year: 2023
-    - course: Estudiante de Ingeniería Electrónica Industrial
-      institution: Universidad de Málaga
-      year: 2023-x
+    - course: Estudiante de Ingeniería Electrónica Robótica y Mecatrónica
+      year: 2022-x
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,19 +37,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jaguayo@uma.es'
+    link: 'mailto:0611089608@uma.es'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/fco-javier-aguayo-hdez-10a50b295/
+    link: https://www.linkedin.com
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/jaguayo27/
+    link: https://www.instagram.com/lili_1067/
   - icon: github
     icon_pack: fab
-    link: https://github.com/Jackks27
+    link: https://github.com
 
     
 # Link to a PDF of your resume/CV from the About widget.
@@ -76,8 +72,4 @@ user_groups:
 
 
 
-Mi objetivos actuales son varios, pero los principales tres son:
-
-Crear una red de contactos con empresas, estudiantes y profesores. 🌐
-Aprender todo lo posible tanto dentro como fuera de las clases. 🧑‍🎓
-Disfrutar al máximo y sin prisa mi vida universitaria. 🍻
+Soy Lili y estoy estudiando ingeniería robótica. Me encanta la programación dirigida al control e interacción con el mundo físico, por ello he decidido complementar mi formación participando en RoboRescue

@@ -36,12 +36,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ivanmorladag@gmail.com'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/iv%C3%A1n-moreno-ladaga-42430a297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-  - icon: gmail
-    icon_pack: fab
-    link: ivanmorladag@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/TnTivanTnT

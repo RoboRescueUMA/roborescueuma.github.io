@@ -74,4 +74,4 @@ user_groups:
 
 
 
-Me gusta investigar y aprender cómo funcionan las cosas. Me interesan la robótica, la inteligencia artificial, la electrónica, la física las matemáticas. 
+Me gusta investigar y aprender cómo funcionan las cosas. Me interesan la robótica, la inteligencia artificial, la electrónica, la física y las matemáticas. 

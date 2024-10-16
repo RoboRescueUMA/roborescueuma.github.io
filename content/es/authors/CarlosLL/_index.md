@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: Estudiante de 1° de ingeniería Informática
-    institution: Universidad de Málaga
+      institution: Universidad de Málaga
       year: 2024
 
 # Social/Academic Networking

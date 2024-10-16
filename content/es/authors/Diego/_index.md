@@ -74,4 +74,4 @@ user_groups:
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Me gusta investigar y aprender cómo funcionan las cosas. Me interesan la robótica, la inteligencia artificial, la electrónica, la física las matemáticas. 

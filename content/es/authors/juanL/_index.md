@@ -10,7 +10,7 @@ last_name: López
 superuser: false
 
 # Role/position
-role: Jefe de Power
+role: Team Leader
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Jefes de Departamento
+  - Team Leader
 ---
 
 

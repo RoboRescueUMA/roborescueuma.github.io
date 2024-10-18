@@ -10,7 +10,7 @@ last_name: España Carnero
 superuser: false
 
 # Role/position
-role: CoTeam Leader
+role: CoJefe de Equipo
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Leader
+  - Jefe de Equipo
 ---
 
 

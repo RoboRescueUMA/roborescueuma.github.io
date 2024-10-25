@@ -42,9 +42,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yegor-antonio-radchenko-villacr%C3%A9s-085872297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/ibaigp/
   - icon: github
     icon_pack: fab
     link: https://github.com/YegorRad

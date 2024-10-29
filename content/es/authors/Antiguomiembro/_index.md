@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ibai Gutiérrez Páez
+title: Celia Jiménez
 
 # Is this the primary user of the site?
 superuser: false

@@ -10,7 +10,7 @@ last_name: López
 superuser: false
 
 # Role/position
-role: Jefe de Equipo
+role: Team leader
 
 # Organizations/Affiliations
 organizations:

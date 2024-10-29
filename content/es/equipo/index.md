@@ -16,6 +16,8 @@ sections:
           - Jefes de Departamento
           - Hardware
           - Software
+          - Antiguos miembros
+          - Profesores colaboradores
           
       sort_by: Params.last_name
       sort_ascending: true

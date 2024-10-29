@@ -2,16 +2,8 @@
 # Display name
 title: Ibai Gutiérrez Páez
 
-# Full Name (for SEO)
-first_name: Ibai
-last_name: Gutiérrez Páez
-
 # Is this the primary user of the site?
 superuser: false
-
-
-
-
     
 # Highlight the author in author lists? (true/false)
 highlight_name: false

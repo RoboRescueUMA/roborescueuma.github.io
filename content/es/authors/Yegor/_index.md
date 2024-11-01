@@ -10,7 +10,7 @@ last_name: Radchenko Villacrés
 superuser: false
 
 # Role/position
-role: Miembro del departamento de software
+role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:

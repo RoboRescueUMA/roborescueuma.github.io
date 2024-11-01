@@ -10,7 +10,7 @@ last_name: López Lovera
 superuser: false
 
 # Role/position
-role: Ingeniero de Autonomía
+role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:

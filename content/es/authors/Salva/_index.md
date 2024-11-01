@@ -10,7 +10,7 @@ last_name: Lázaro Herrero
 superuser: false
 
 # Role/position
-role: Integrante del Equipo de Software
+role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:

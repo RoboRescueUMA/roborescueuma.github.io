@@ -10,7 +10,7 @@ last_name: Gutiérrez Páez
 superuser: false
 
 # Role/position
-role: Departamento de Power
+role: Ingeniero Hardware
 
 # Organizations/Affiliations
 organizations:

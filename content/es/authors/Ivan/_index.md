@@ -10,7 +10,7 @@ last_name: Moreno Ladaga
 superuser: false
 
 # Role/position
-role: Ingeniero de Software
+role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:

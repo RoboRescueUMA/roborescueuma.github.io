@@ -10,7 +10,7 @@ last_name: Aguayo
 superuser: true
 
 # Role/position
-role: Ingeniero Hardware
+role: Jefe de Hardware
 
 # Organizations/Affiliations
 organizations:

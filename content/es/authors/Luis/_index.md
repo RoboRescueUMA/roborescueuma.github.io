@@ -10,7 +10,7 @@ last_name: España Carnero
 superuser: false
 
 # Role/position
-role: CoJefe de Equipo
+role: Co-leader Hardware
 
 # Organizations/Affiliations
 organizations:

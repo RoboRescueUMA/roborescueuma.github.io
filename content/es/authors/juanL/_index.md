@@ -1,10 +1,10 @@
 ---
 # Display name
-title: aJuan López Puebla
+title: Juan López Puebla
 
 # Full Name (for SEO)
 first_name: Juan
-last_name: López
+last_name: _López
 
 # Is this the primary user of the site?
 superuser: false

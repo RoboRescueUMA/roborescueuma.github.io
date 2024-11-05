@@ -1,6 +1,6 @@
 ---
 # Display name
-title: @Juan López Puebla
+title: aJuan López Puebla
 
 # Full Name (for SEO)
 first_name: Juan

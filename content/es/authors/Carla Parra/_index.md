@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Márketing
+  - Marketing
 ---
 
 Estudiante de Marketing e Investigación de Mercados, me entusiasma el mundo empresarial, el emprendimiento y comprender el comportamiento de los consumidores en diferentes áreas.

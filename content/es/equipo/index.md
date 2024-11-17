@@ -16,7 +16,7 @@ sections:
           - Jefes de Departamento
           - Hardware
           - Software
-          - Márketing
+          - Marketing
           - Antiguos miembros
           - Profesores colaboradores
           

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Matías Luciano Hecker
+title: Paula Navarro Alarcón
 
 # Full Name (for SEO)
-first_name: Matías Luciano
-last_name: Hecker
+first_name: Paula
+last_name: Navarro Alarcón
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ingeniero Hardware
+role: Departamento de márketing
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,17 @@ organizations:
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Me interesa todo lo relacionado con la innovación y la creación de nuevas tecnologías. Me gusta la mecánica y el diseño de máquinas. Me atrae la idea de trabajar en un entorno competitivo donde pueda aprender y mejorarme como futuro ingeniero junto a otros ingenieros con los mismos intereses.
+bio: Interesada en diseño y fotografía.
 
 interests:
-  - Innovación y creación de nuevas tecnologías.
-  - Mecánica y diseño.
-  - Investigación y trabajo en equipo.
+  - Fotografía.
+  - Diseño.
 
 education:
   courses:
-    - course: Estudiante de 2° de ingeniería Mecánica
+    - course: Estudiante de 3° de Márketing e Investigación de Mercados
       institution: Universidad de Málaga
-      year: 2023
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -38,13 +37,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:matiaslucianohecker@gmail.com'
+    link: 'mailto:ibaigutierrezpaez@uma.es'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/paula-navarro-alarc%C3%B3n-a085562b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/maty_hecker_ch/profilecard/?igsh=MWlqdW41NTBtZWQzeg==
+    link: https://www.instagram.com/paulaa_.navarro/profilecard/?igsh=ZmNsbHJtZGJsenhq
   - icon: github
     icon_pack: fab
-    link: https://github.com/matias-luciano-hecker
+    link: https://github.com/Paulaa004
 
     
 # Link to a PDF of your resume/CV from the About widget.
@@ -62,9 +64,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Hardware
+  - Márketing
 ---
 
 
 
-Soy estudiante de ingeniería mecánica de 19 años. Soy un apasionado de la tecnología y la innovación que está dispuesto siempre a aprender y a trabajar lo máximo posible. Me gusta poder aportar ideas creativas y resolver problemas prácticos en un entorno de trabajo real. 
+Soy una estudiante de marketing con muchas ganas de participar en proyectos y aportar mis granitos de arena.

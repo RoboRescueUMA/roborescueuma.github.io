@@ -16,6 +16,7 @@ sections:
           - Jefes de Departamento
           - Hardware
           - Software
+          - Márketing
           - Antiguos miembros
           - Profesores colaboradores
           
@@ -25,4 +26,4 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
----
+

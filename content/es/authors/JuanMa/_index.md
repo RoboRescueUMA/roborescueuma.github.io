@@ -1,6 +1,6 @@
 ---
 # Display name
-title: [Juan M. Gandarias](https://jmgandarias.com)
+title: Juan M. Gandarias
 
 # Full Name (for SEO)
 first_name: Juan M.

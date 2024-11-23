@@ -1,4 +1,4 @@
-<!-- ---
+---
 # Display name
 title: [Juan Manuel Gandarias](https://jmgandarias.com)
 
@@ -70,6 +70,6 @@ highlight_name: false
 user_groups:
   - Coordinadores
 ---
- -->
-[Juan Manuel Gandarias](https://jmgandarias.com)
+
+
 

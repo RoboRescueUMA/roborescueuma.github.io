@@ -10,7 +10,7 @@ last_name: Navarro Alarcón
 superuser: false
 
 # Role/position
-role: Departamento de márketing
+role: Departamento de marketing
 
 # Organizations/Affiliations
 organizations:

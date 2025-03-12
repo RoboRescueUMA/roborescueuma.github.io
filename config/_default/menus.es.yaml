@@ -4,9 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: Inicio
+    url: '#inicio'
+    weight: 10
   - name: Conócenos
     url: conocenos
-    weight: 10
+    weight: 20
   #- name: Patrocinadores
     # url: noticias
     # weight: 20

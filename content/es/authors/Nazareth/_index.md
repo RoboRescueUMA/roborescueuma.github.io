@@ -10,7 +10,7 @@ last_name: López Candela
 superuser: false
 
 # Role/position
-role: Ingeniero Software
+role: Ingeniera Software
 
 # Organizations/Affiliations
 organizations:

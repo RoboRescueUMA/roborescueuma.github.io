@@ -1,0 +1,20 @@
+﻿---
+translationKey: Antonio Ruiz Espinosa
+# Display name
+title: Antonio Ruiz Espinosa
+
+# Is this the primary user of the site?
+superuser: false
+    
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Alumni
+---
+
+Su paso por el equipo serÃ¡ recordado con cariÃ±o, ya que gracias a los que trabajaron en el pasado hemos llegado a ser lo que somos. 
+
+# TODO: translate bio to English

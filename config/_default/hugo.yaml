@@ -39,7 +39,7 @@ imaging:
   resampleFilter: lanczos
   quality: 75
   anchor: smart
-timeout: 600000
+timeout: 600000 # Alto por posibles imágenes grandes; tras optimizar y generar WebP se puede reducir (ej. 120000)
 taxonomies:
   tag: tags
   category: categories

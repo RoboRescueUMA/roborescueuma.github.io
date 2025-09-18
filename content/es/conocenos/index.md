@@ -1,6 +1,7 @@
 ---
 title: Tour
 date: 2022-10-24
+description: "Conoce las actividades, talleres y cultura del equipo RoboRescue UMA."
 
 type: landing
 

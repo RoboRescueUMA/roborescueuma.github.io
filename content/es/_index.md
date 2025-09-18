@@ -3,6 +3,7 @@
 title:
 date: 2022-10-24
 type: landing
+description: "Equipo estudiantil de la Universidad de Málaga dedicado a la robótica de rescate: proyectos, noticias y miembros."
 
 sections:
   - block: hero

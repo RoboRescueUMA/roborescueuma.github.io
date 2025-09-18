@@ -3,6 +3,7 @@
 title:
 date: 2022-10-24
 type: landing
+description: "Student rescue robotics team at the University of Málaga: projects, updates, and members."
 
 sections:
   - block: hero

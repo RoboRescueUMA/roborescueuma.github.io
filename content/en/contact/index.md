@@ -1,5 +1,6 @@
 ---
 title: Contact
+description: "Get in touch with RoboRescue UMA: students, sponsors, collaborators. Location, office hours, and contact form."
 date: 2024-09-23
 
 type: landing

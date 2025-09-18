@@ -17,6 +17,8 @@ organizations:
   - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
+
+
 # Short bio (displayed in user profile at end of posts)
 bio: Mis intereses incluyen robótica de recate, automática, y programación con Matlab Simulink.
 

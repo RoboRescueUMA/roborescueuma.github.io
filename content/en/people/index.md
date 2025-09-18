@@ -10,15 +10,15 @@ sections:
       title: Meet the Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-    user_groups:
-      - Coordinadores
-      - Jefes de Equipo
-      - Jefes de Departamento
-      - Hardware
-      - Software
-      - Marketing
-      - Antiguos miembros
-      - Profesores colaboradores
+      user_groups:
+        - Coordinadores
+        - Jefes de Equipo
+        - Jefes de Departamento
+        - Hardware
+        - Software
+        - Marketing
+        - Antiguos miembros
+        - Profesores colaboradores
       sort_by: Params.last_name
       sort_ascending: true
     design:

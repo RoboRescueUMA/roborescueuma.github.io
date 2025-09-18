@@ -11,7 +11,7 @@ sections:
       text: |-
         Si eres un estudiante que quiere unirse a nuestro equipo, una empresa interesada en patrocinarnos o simplemente alguien con curiosidad por conocer nuestro proyecto, ¡no dudes en contactarnos!
       email: roborescue@uma.es
-      phone: 888 888 88 88
+  # phone: (añade número de contacto aquí si se desea)
       address:
         street: Edificio de Ingenierías UMA, Arquitecto Francisco Peñalosa, 6
         city: Málaga

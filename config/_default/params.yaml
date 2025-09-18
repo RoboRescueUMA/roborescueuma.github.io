@@ -21,10 +21,10 @@ marketing:
     description: 'Grupo de estudiantes para la robótica de rescate'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+  google_analytics: 'G-73TK9B3KF0'
     baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
+    google_tag_manager: '' # Optionally GTM-XXXXXXX
+    microsoft_clarity: '' # Optionally Clarity ID
   verification:
     google: ''
     baidu: ''
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/roborescueuma/pages'
+    url: 'https://github.com/RoboRescueUMA/roborescueuma.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -110,6 +110,18 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+
+# Social profiles (placeholders - replace as needed)
+social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/RoboRescueUMA
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/roborescueuma/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/company/roborescueuma/
 
 # Citation style
 

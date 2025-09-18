@@ -9,23 +9,23 @@ sections:
     content:
       title: Contact
       text: |-
-        Si eres un estudiante que quiere unirse a nuestro equipo, una empresa interesada en patrocinarnos o simplemente alguien con curiosidad por conocer nuestro proyecto, ¡no dudes en contactarnos!
+        If you are a student who wants to join our team, a company interested in sponsoring us, or simply someone curious about our project, feel free to reach out!
       email: roborescue@uma.es
-      phone: 888 888 88 88
+  # phone: (add phone number here if desired)
       address:
-        street: Edificio de Ingenierías UMA, Arquitecto Francisco Peñalosa, 6
-        city: Málaga
-        region: Andalucía
+        street: UMA Engineering Building, Arquitecto Francisco Peñalosa, 6
+        city: Malaga
+        region: Andalusia
         postcode: '29010'
-        country: España
+        country: Spain
         country_code: ES
       coordinates:
         latitude: '36.71549'
         longitude: '-4.49056'
-      directions: Entra en la nave y gira a la izquierda, la primera puerta Taller 27
+      directions: Enter the workshop area, turn left, first door (Workshop 27)
       office_hours:
-        - 'Martes 15:00 to 18:00'
-        - 'Jueves 15:00 to 16:15'
+        - 'Tuesday 15:00–18:00'
+        - 'Thursday 15:00–16:15'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments

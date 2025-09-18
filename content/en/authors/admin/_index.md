@@ -67,6 +67,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Coordinators
+weight: -10
 ---
 
 Antonio J. Muñoz is coordinator of the RoboRescue UMA student robotics group at the University of Málaga. His interests include rescue robotics, automation and model-based development workflows for robotics.

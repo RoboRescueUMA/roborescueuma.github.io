@@ -10,7 +10,7 @@ image:
   caption: "Close-up of installed track system"
   focal_point: center
   preview_only: false
-draft: true
+draft: false
 reading_time: true
 share: true
 show_related: true

@@ -1,0 +1,33 @@
+# Custom theme definition for RoboRescue UMA
+# Light and dark palettes; adjust as desired.
+name = "mr_robot"
+
+[light]
+  primary = "#FF1744"         # Accent / brand red
+  primary_light = "#FF5252"
+  primary_dark = "#D50000"
+  background = "#FFFFFF"
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#F7F7F9"
+  menu_primary = "#0D0D0D"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#FF1744"
+  menu_title = "#FFFFFF"
+  link = "#FF1744"
+  link_hover = "#D50000"
+  border = "#E0E0E0"
+
+[dark]
+  primary = "#FF5252"
+  primary_light = "#FF8A80"
+  primary_dark = "#FF1744"
+  background = "#121212"
+  home_section_odd = "#121212"
+  home_section_even = "#1E1E1E"
+  menu_primary = "#000000"
+  menu_text = "#EEEEEE"
+  menu_text_active = "#FF5252"
+  menu_title = "#FFFFFF"
+  link = "#FF5252"
+  link_hover = "#FF8A80"
+  border = "#2A2A2A"

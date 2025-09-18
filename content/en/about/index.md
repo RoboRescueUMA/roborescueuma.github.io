@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2022-10-24
+description: "Discover RoboRescue UMA activities, workshops, and collaborative culture."
 
 type: landing
 

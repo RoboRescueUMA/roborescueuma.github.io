@@ -1,41 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Antonio J. Muñoz
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Antonio
+last_name: Muñoz
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Coordinator
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: University of Málaga
+    url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include rescue robotics, automation, and model-based robot programming with Matlab Simulink.
 
 interests:
+  - Robot Control
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Model-Based Design with Simulink
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science
+      institution: University of Málaga
+      year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +38,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:aj@uma.es'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ajmunoz00
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,9 +66,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Coordinadores
+  - Coordinators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Antonio J. Muñoz is coordinator of the RoboRescue UMA student robotics group at the University of Málaga. His interests include rescue robotics, automation and model-based development workflows for robotics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+translationKey: admin
+
+# TODO: Refine English bio with more detail if desired.

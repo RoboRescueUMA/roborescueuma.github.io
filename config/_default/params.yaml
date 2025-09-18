@@ -21,7 +21,7 @@ marketing:
     description: 'Grupo de estudiantes para la robótica de rescate'
     twitter: 'GetResearchDev'
   analytics:
-  google_analytics: 'G-73TK9B3KF0'
+    google_analytics: 'G-73TK9B3KF0'
     baidu_tongji: ''
     google_tag_manager: '' # Optionally GTM-XXXXXXX
     microsoft_clarity: '' # Optionally Clarity ID

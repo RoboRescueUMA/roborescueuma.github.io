@@ -16,6 +16,9 @@ main:
   - name: Equipo
     url: equipo
     weight: 30
+  - name: Organigrama
+    url: organigrama
+    weight: 35
  # - name: Eventos
  #   url: eventos
   #  weight: 40

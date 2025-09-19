@@ -1,11 +1,8 @@
-# RoboRescue UMA - Official Website
+# RoboRescue UMA - Página Web
 
 [![Deploy Status](https://github.com/RoboRescueUMA/roborescueuma.github.io/actions/workflows/publish.yaml/badge.svg)](https://github.com/RoboRescueUMA/roborescueuma.github.io/actions/workflows/publish.yaml)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.roborescue.uma.es)](https://roborescueuma.github.io/)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE.md)
 
-> **Sitio web oficial del equipo estudiantil RoboRescue UMA de la Universidad de Málaga**  
-> 🌐 **Live Site**: [www.roborescue.uma.es](https://www.roborescue.uma.es)
+> **🌐 Sitio web**: [www.roborescue.uma.es](https://www.roborescue.uma.es)
 
 ## 📖 Sobre RoboRescue UMA
 

@@ -1,7 +1,9 @@
-# editorconfig.org
+# EditorConfig para RoboRescue UMA - Sitio web Hugo
+# Más información: https://editorconfig.org/
 
 root = true
 
+# Configuración por defecto para todos los archivos
 [*]
 charset = utf-8
 end_of_line = lf
@@ -9,9 +11,4 @@ indent_size = 2
 indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
-
-[*.toml]
-max_line_length = 100
-
-[*.md]
-trim_trailing_whitespace = false
+max_line_length = 0

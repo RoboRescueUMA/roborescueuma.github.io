@@ -14,6 +14,7 @@ sections:
       user_groups:
         - Coordinators
         - Team Leads
+        - Mentors
         - Department Heads
         - Hardware
         - Software

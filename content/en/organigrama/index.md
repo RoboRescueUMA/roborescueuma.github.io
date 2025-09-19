@@ -8,7 +8,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: "🎯 General Coordination"
+      title: "General Coordination"
       text: "**Project direction and strategic oversight**  \nMain coordinators of the rescue robotics team"
     design:
       background:
@@ -85,7 +85,7 @@ sections:
       subtitle: "Team communication and coordination structure"
       text: |
         **📋 Planning:** Coordinators → Team Leads  
-        **🎯 Execution:** Team Leads → Technical Teams  
+        **⚡ Execution:** Team Leads → Technical Teams  
         **🧠 Mentoring:** Mentors → All levels  
         **📊 Monitoring:** Technical Teams → Coordination
     design:
@@ -97,7 +97,7 @@ sections:
       title: "ℹ️ Organizational Chart Information"
       text: |
         **📅 Last updated:** September 2025  
-        **🎯 Structure:** Based on technical competencies and organizational responsibilities  
+        **�️ Structure:** Based on technical competencies and organizational responsibilities  
         **🔄 Flexibility:** Members can participate in multiple areas according to project needs
 
   - block: people

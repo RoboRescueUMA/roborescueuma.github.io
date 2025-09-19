@@ -8,7 +8,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: "🎯 Coordinación General"
+      title: "Coordinación General"
       text: "**Dirección del proyecto y supervisión estratégica**  \nCoordinadores principales del equipo de robótica de rescate"
     design:
       background:
@@ -85,7 +85,7 @@ sections:
       subtitle: "Estructura de comunicación y coordinación del equipo"
       text: |
         **📋 Planificación:** Coordinadores → Jefes de Equipo  
-        **🎯 Ejecución:** Jefes de Equipo → Equipos Técnicos  
+        **⚡ Ejecución:** Jefes de Equipo → Equipos Técnicos  
         **🧠 Mentoría:** Mentores → Todos los niveles  
         **📊 Seguimiento:** Equipos Técnicos → Coordinación
     design:
@@ -97,7 +97,7 @@ sections:
       title: "ℹ️ Información del Organigrama"
       text: |
         **📅 Última actualización:** Septiembre 2025  
-        **🎯 Estructura:** Basada en competencias técnicas y responsabilidades organizacionales  
+        **�️ Estructura:** Basada en competencias técnicas y responsabilidades organizacionales  
         **🔄 Flexibilidad:** Los miembros pueden participar en múltiples áreas según necesidades del proyecto
 
   - block: people

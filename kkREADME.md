@@ -1,48 +1,347 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# RoboRescue UMA - Technical Documentation
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+> **Documentación técnica para desarrolladores del sitio web de RoboRescue UMA**  
+> Basado en Hugo Blox Builder (anteriormente Wowchemy) Research Group Template
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+## 🏗️ Arquitectura del Sitio
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+### Stack Tecnológico
+- **Framework**: Hugo Extended v0.125.7
+- **Theme Base**: Hugo Blox Research Group Template
+- **Theme Custom**: `mr_robot` (personalizado)
+- **Frontend**: Bootstrap 5 + SCSS personalizado
+- **Backend**: Contenido estático generado
+- **Deploy**: GitHub Actions → GitHub Pages
+- **Analytics**: Google Analytics 4
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+### Módulos Hugo Utilizados
+```yaml
+# config/_default/module.yaml
+imports:
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify  
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+```
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+## 🎨 Sistema de Theming
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
+### Tema Personalizado: `mr_robot`
+Archivo: `data/themes/mr_robot.toml`
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+**Paleta de Colores:**
+```toml
+[light]
+  primary = "#FF1744"         # Rojo corporativo RoboRescue
+  primary_light = "#FF5A5A"   # Rojo claro
+  primary_dark = "#C4002E"    # Rojo oscuro
+  background = "#FFFFFF"      # Blanco
+  text = "#1A1A1A"           # Negro casi puro
+  link = "#D50000"           # Enlaces (contraste mejorado)
+  
+[dark]  
+  primary = "#FF4A4A"         # Rojo adaptado para modo oscuro
+  background = "#121212"      # Negro Material Design
+  text = "#E4E4E7"           # Gris claro
+```
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+### Customizaciones SCSS
+Archivo: `assets/scss/template.scss`
 
-## We ask you, humbly, to support this open source movement
+```scss
+// Sobrescribir variables Bootstrap
+:root {
+  --bs-primary: #{$primary};
+  --bs-primary-rgb: #{to-rgb($primary)};
+}
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+// Estilos personalizados RoboRescue
+.navbar-brand {
+  font-weight: 700;
+  color: var(--primary) !important;
+}
+```
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+## 📁 Estructura de Contenido
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+### Multiidioma
+```
+content/
+├── es/                     # Español (principal)
+│   ├── _index.md          # Homepage
+│   ├── authors/           # Perfiles del equipo
+│   ├── noticias/          # Posts/noticias
+│   ├── eventos/           # Eventos y competiciones
+│   ├── publicaciones/     # Papers académicos
+│   ├── conocenos/         # About page
+│   ├── equipo/            # Team overview
+│   └── contacto/          # Contact form
+└── en/                     # English (secundario)
+    └── [misma estructura]
+```
 
-## Demo credits
+### Content Types y Front Matter
 
-Please replace the demo images with your own.
+**Post/Noticia:**
+```yaml
+---
+title: "Título"
+date: 2025-09-19T10:30:00+02:00
+authors: [admin, autor2]
+tags: [horu, rescate]
+categories: [Noticias]
+featured: true
+draft: false
+image:
+  caption: 'Alt text para accesibilidad'
+  focal_point: Smart
+  preview_only: false
+translationKey: clave-unica
+---
+```
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+**Author/Miembro:**
+```yaml
+---
+translationKey: autor-key
+title: Nombre Completo
+superuser: false
+role: Rol en el Equipo
+organizations:
+  - name: Universidad de Málaga
+    url: 'https://www.uma.es'
+bio: Biografía breve...
+user_groups:
+  - Software
+  - Hardware
+  - Coordinators
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:email@uma.es'
+  - icon: x-twitter
+    icon_pack: fab
+    link: https://twitter.com/perfil
+---
+```
+
+## ⚙️ Configuración Hugo
+
+### Archivos de Configuración
+```
+config/_default/
+├── hugo.yaml              # Config principal
+├── params.yaml            # Parámetros del sitio
+├── menus.es.yaml          # Navegación español
+├── menus.en.yaml          # Navegación inglés
+├── languages.yaml         # Config multiidioma
+└── module.yaml            # Módulos Hugo
+```
+
+### Configuraciones Clave
+
+**SEO y Analytics (params.yaml):**
+```yaml
+marketing:
+  analytics:
+    google_analytics: 'G-73TK9B3KF0'
+  seo:
+    site_type: Organization
+    org_name: 'Roborescue UMA'
+    description: 'Grupo de estudiantes para la robótica de rescate'
+```
+
+**Multiidioma (hugo.yaml):**
+```yaml
+defaultContentLanguage: es
+defaultContentLanguageInSubdir: true
+removePathAccents: true
+```
+
+**Build estricto:**
+```yaml
+# En CI: hugo --panicOnWarning --minify
+```
+
+## � CI/CD Pipeline
+
+### GitHub Actions
+Archivo: `.github/workflows/publish.yaml`
+
+**Workflow:**
+1. **Checkout** código
+2. **Setup Hugo** Extended v0.125.7
+3. **Cache** módulos Go
+4. **Build** con `--panicOnWarning --minify`
+5. **Deploy** a GitHub Pages
+
+**Variables de entorno:**
+```yaml
+env:
+  WC_HUGO_VERSION: '0.125.7'
+  HUGO_ENVIRONMENT: production
+```
+
+### Deploy Target
+- **Hosting**: GitHub Pages
+- **Dominio**: www.roborescue.uma.es
+- **SSL**: Automático via GitHub
+- **CDN**: Incluido en GitHub Pages
+
+## 🔧 Herramientas de Desarrollo
+
+### Scripts Útiles
+```powershell
+# scripts/clone-authors.ps1
+# Sincroniza perfiles ES → EN automáticamente
+
+# scripts/optimize-images.ps1  
+# Optimiza imágenes (requiere ImageMagick)
+```
+
+### Comandos Frecuentes
+```bash
+# Desarrollo local
+hugo server -D --disableFastRender
+
+# Build como producción
+hugo --environment production --minify --panicOnWarning
+
+# Limpiar caché
+hugo mod clean && rm -rf resources/
+
+# Actualizar módulos
+hugo mod get -u
+```
+
+## � Performance y SEO
+
+### Optimizaciones Implementadas
+- **Minificación**: HTML, CSS, JS automática
+- **Imágenes**: Responsive automático Hugo
+- **Cache**: Recursos estáticos cacheados
+- **Compress**: Gzip en GitHub Pages
+
+### SEO Features
+- **Sitemap**: Generado automáticamente
+- **Robots.txt**: Configurado para crawlers
+- **Meta tags**: Open Graph parcial
+- **Schema.org**: Pendiente (TODO)
+- **Analytics**: GA4 integrado
+
+### Lighthouse Scores (Objetivo)
+- **Performance**: >90
+- **Accessibility**: >95
+- **Best Practices**: >95
+- **SEO**: >95
+
+## 🐛 Debugging y Troubleshooting
+
+### Errores Comunes
+
+**Build falla con "panicOnWarning":**
+```bash
+hugo --verbose --debug
+# Revisar warnings por:
+# - Enlaces rotos
+# - Imágenes faltantes  
+# - Front matter malformado
+```
+
+**Módulos Hugo desactualizados:**
+```bash
+hugo mod get -u
+hugo mod tidy
+hugo mod verify
+```
+
+**Problemas de encoding UTF-8:**
+```bash
+# Verificar archivos
+file -i content/**/*.md
+# Debe retornar: charset=utf-8
+
+# Recodificar si necesario
+iconv -f ISO-8859-1 -t UTF-8 input.md > output.md
+```
+
+### Logs y Debugging
+```bash
+# Modo verbose
+hugo server --verbose --debug
+
+# Ver configuración compilada  
+hugo config
+
+# Analizar módulos
+hugo mod graph
+
+# Listar todo el contenido
+hugo list all
+```
+
+## 🔒 Seguridad y Permisos
+
+### Permisos GitHub
+- **Admin**: @ajmunoz00
+- **Write**: Miembros core del equipo
+- **Read**: Todos los miembros RoboRescue
+
+### Secrets y Variables
+```yaml
+# GitHub Secrets (si se usan)
+HUGO_ENV: production
+GA_MEASUREMENT_ID: G-73TK9B3KF0
+```
+
+### Content Security
+- **Sanitización**: Hugo automática
+- **XSS Protection**: Headers automáticos
+- **HTTPS**: Forzado en GitHub Pages
+
+## 📈 Roadmap Técnico
+
+### Mejoras Pendientes (TODO_NEXT.md)
+
+**Prioridad 1:**
+- [ ] Open Graph imágenes default
+- [ ] Schema.org JSON-LD  
+- [ ] Optimización de imágenes automática
+
+**Prioridad 2:**
+- [ ] Search mejorado (Algolia)
+- [ ] PWA features
+- [ ] Image optimization pipeline
+
+**Prioridad 3:**
+- [ ] Headless CMS integration
+- [ ] Multi-site architecture
+- [ ] Advanced analytics
+
+## 📞 Soporte Técnico
+
+- **Hugo Docs**: [gohugo.io/documentation](https://gohugo.io/documentation/)
+- **Hugo Blox**: [docs.hugoblox.com](https://docs.hugoblox.com/)
+- **GitHub Issues**: [Issues del proyecto](https://github.com/RoboRescueUMA/roborescueuma.github.io/issues)
+- **Maintainer**: Antonio J. Muñoz (aj@uma.es)
+
+## 📄 Créditos y Licencias
+
+### Theme Base
+- **Hugo Blox Builder**: MIT License
+- **Bootstrap 5**: MIT License
+- **Font Awesome**: CC BY 4.0 + SIL OFL 1.1
+
+### Contenido RoboRescue
+- **License**: Creative Commons BY-NC-SA 4.0
+- **Copyright**: Universidad de Málaga © 2024
+
+### Imágenes Demo (Reemplazadas)
+- Originales del template reemplazadas por contenido RoboRescue
+- Imágenes del equipo: propiedad de RoboRescue UMA
+- Logos: Universidad de Málaga + RoboRescue UMA
+
+---
+
+**Última actualización**: Septiembre 2025  
+**Versión Hugo**: 0.125.7  
+**Versión Template**: Hugo Blox Research Group v5.9

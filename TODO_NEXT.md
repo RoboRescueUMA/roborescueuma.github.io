@@ -1,6 +1,0 @@
-- [ ] Renombrar carpetas en content/es/authors y content/en/authors
-- [ ] Quitar o reemplazar placeholders
-- [ ] Encuestar a los miembros para información actualizada, fotos y redes sociales
-- [ ] Corregir bug donde el selector de idioma solo aparece en ciertas áreas
-- [ ] Comprobar google analytics
-- Estilo similar a clubcapra.com

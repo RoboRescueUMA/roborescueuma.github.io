@@ -14,6 +14,7 @@ sections:
       user_groups:
           - Coordinadores
           - Jefes de Equipo
+          - Mentores
           - Jefes de Departamento
           - Hardware
           - Software

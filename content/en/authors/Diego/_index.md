@@ -1,4 +1,4 @@
-﻿---
+---
 translationKey: Diego
 # Display name
 title: Diego Caruana Montes
@@ -15,22 +15,22 @@ role: Co-leader Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Me gusta investigar y aprender cÃ³mo funcionan las cosas. Me interesan la robÃ³tica, la inteligencia artificial, la electrÃ³nica, la fÃ­sica y las matemÃ¡ticas. 
+bio: Me gusta investigar y aprender cómo funcionan las cosas. Me interesan la robótica, la inteligencia artificial, la electrónica, la física y las matemáticas. 
 
 interests:
-  - RobÃ³tica
-  - ElectrÃ³nica
+  - Robótica
+  - Electrónica
   - Inteligencia Artificial
-  - InvestigaciÃ³n cientÃ­fica
+  - Investigación científica
 
 education:
   courses:
-    - course: Grado en IngenierÃ­a ElectrÃ³nica, RobÃ³tica y MecatrÃ³nica
-      institution: Universidad de MÃ¡laga
+    - course: Grado en Ingeniería Electrónica, Robótica y Mecatrónica
+      institution: Universidad de Málaga
       year: 2025
 
 # Social/Academic Networking
@@ -41,7 +41,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:dcaruanamontes@uma.es'
-#  - icon: twitter
+#  - icon: x-twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
   - icon: linkedin
@@ -75,6 +75,6 @@ user_groups:
 
 
 
-Me gusta investigar y aprender cÃ³mo funcionan las cosas. Me interesan la robÃ³tica, la inteligencia artificial, la electrÃ³nica, la fÃ­sica y las matemÃ¡ticas. 
+Me gusta investigar y aprender cómo funcionan las cosas. Me interesan la robótica, la inteligencia artificial, la electrónica, la física y las matemáticas. 
 
 # TODO: translate bio to English

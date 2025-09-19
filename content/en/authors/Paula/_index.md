@@ -1,4 +1,4 @@
-﻿---
+---
 translationKey: Paula
 # Display name
 title: Paula Mancilla Pulido
@@ -15,20 +15,20 @@ role: Ingeniera Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Me interesa la robÃ³tica y la programaciÃ³n, y completar el aprendizaje obtenido en la Universidad ganando experiencia en el desarrollo de un proyecto.
+bio: Me interesa la robótica y la programación, y completar el aprendizaje obtenido en la Universidad ganando experiencia en el desarrollo de un proyecto.
 
 interests:
-  - ProgramaciÃ³n
-  - ElectrÃ³nica
-  - RobÃ³tica
+  - Programación
+  - Electrónica
+  - Robótica
 
 education:
   courses:
-    - course: Estudiante de IngenierÃ­a ElectrÃ³nica RobÃ³tica y MecatrÃ³nica
+    - course: Estudiante de Ingeniería Electrónica Robótica y Mecatrónica
       year: 2022-x
 
 # Social/Academic Networking
@@ -39,7 +39,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:0611105362@uma.es'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com
   - icon: linkedin
@@ -73,6 +73,6 @@ user_groups:
 
 
 
-Soy Paula y estudio ElectrÃ³nica RobÃ³tica y MecatrÃ³nica. Me unÃ­ a Roborescue con el objetivo de complementar la formaciÃ³n teÃ³rica que ofrece la Universidad con un proyecto que suponga un reto fuera del aula, que impulse mis habilidades de trabajo en equipo y que me permita aprender sobre el desarrollo de un robot. 
+Soy Paula y estudio Electrónica Robótica y Mecatrónica. Me uní a Roborescue con el objetivo de complementar la formación teórica que ofrece la Universidad con un proyecto que suponga un reto fuera del aula, que impulse mis habilidades de trabajo en equipo y que me permita aprender sobre el desarrollo de un robot. 
 
 # TODO: translate bio to English

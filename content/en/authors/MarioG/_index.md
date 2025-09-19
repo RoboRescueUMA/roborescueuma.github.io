@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: MarioG
 # Display name
-title: Mario GarcÃ­a JimÃ©nez
+title: Mario García Jiménez
 
 # Full Name (for SEO)
 first_name: Mario
-last_name: GarcÃ­a
+last_name: García
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,22 +15,22 @@ role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses incluyen robÃ³tica, automÃ¡tica, y programaciÃ³n con Matlab Simulink. 
+bio: Mis intereses incluyen robótica, automática, y programación con Matlab Simulink. 
 
 interests:
-  - DiseÃ±o de PCBs
-  - DiseÃ±o y programaciÃ³n de Robots
-  - DiseÃ±o electrÃ³nico general
-  - Simulaciones y documentaciÃ³n
+  - Diseño de PCBs
+  - Diseño y programación de Robots
+  - Diseño electrónico general
+  - Simulaciones y documentación
 
 education:
   courses:
-    - course: Estudiante de IngenierÃ­a ElectrÃ³nica Industrial
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de Ingeniería Electrónica Industrial
+      institution: Universidad de Málaga
       year: 2021-x
 
 # Social/Academic Networking
@@ -43,7 +43,7 @@ social:
     link: 'mailto:mariogj.03@uma.es'
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/mario-garcÃ­a-jimÃ©nez-230b83234
+    link: www.linkedin.com/in/mario-garcía-jiménez-230b83234
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/marioogarciia17/
@@ -72,7 +72,7 @@ user_groups:
 
 
 
-Me apasiona la electrÃ³nica y todo lo relacionado con ello. Mis objetivos son aprender en este proyecto de robÃ³tica,
+Me apasiona la electrónica y todo lo relacionado con ello. Mis objetivos son aprender en este proyecto de robótica,
 saber trabajar en equipo y disfrutar del camino!!
 
 # TODO: translate bio to English

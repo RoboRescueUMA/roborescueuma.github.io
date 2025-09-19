@@ -1,4 +1,4 @@
-﻿---
+---
 translationKey: LauraFont
 # Display name
 title: Laura Font Luque
@@ -15,23 +15,23 @@ role: Ingeniero Hardware
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: RobÃ³tica, DiseÃ±o 3D, ProgramaciÃ³n, Trabajo en equipo.
+bio: Robótica, Diseño 3D, Programación, Trabajo en equipo.
 
 interests:
-  - RobÃ³tica.
-  - DiseÃ±o 3D.
-  - ProgramaciÃ³n.
+  - Robótica.
+  - Diseño 3D.
+  - Programación.
   - Trabajo en equipo.
   
 
 education:
   courses:
-    - course: Estudiante de 1Â° de IngenierÃ­a RobÃ³tica, ElectrÃ³nica y MecatrÃ³nica.
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de 1° de Ingeniería Robótica, Electrónica y Mecatrónica.
+      institution: Universidad de Málaga
       year: 2024
 
 # Social/Academic Networking
@@ -67,6 +67,6 @@ user_groups:
 
 
 
-Soy Laura, me apasiona la robÃ³tica y el diseÃ±o. Mi objetivo es aprender todo lo posible y poder seguir formÃ¡ndome mientras estudio.
+Soy Laura, me apasiona la robótica y el diseño. Mi objetivo es aprender todo lo posible y poder seguir formándome mientras estudio.
 
 # TODO: translate bio to English

@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: Nazareth
 # Display name
-title: Nazareth LÃ³pez Candela
+title: Nazareth López Candela
 
 # Full Name (for SEO)
 first_name: Nazareth 
-last_name: LÃ³pez Candela
+last_name: López Candela
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,22 +15,22 @@ role: Ingeniera Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses incluyen robÃ³tica, automÃ¡tica, y programaciÃ³n con Matlab Simulink. 
+bio: Mis intereses incluyen robótica, automática, y programación con Matlab Simulink. 
 
 interests:
-  - DiseÃ±o de PCBs
-  - DiseÃ±o y programaciÃ³n de Robots
-  - DiseÃ±o electrÃ³nico 
+  - Diseño de PCBs
+  - Diseño y programación de Robots
+  - Diseño electrónico 
  
 
 education:
   courses:
-    - course: Estudiante de IngenierÃ­a ElectrÃ³nica Industrial 4Âº
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de Ingeniería Electrónica Industrial 4º
+      institution: Universidad de Málaga
       year: 2021-x
 
 # Social/Academic Networking
@@ -72,7 +72,7 @@ user_groups:
 
 
 
-Me apasiona la electrÃ³nica y todo lo relacionado con ello. Mis objetivos son aprender en este proyecto de robÃ³tica,
+Me apasiona la electrónica y todo lo relacionado con ello. Mis objetivos son aprender en este proyecto de robótica,
 saber trabajar en equipo y disfrutar del camino!!
 
 # TODO: translate bio to English

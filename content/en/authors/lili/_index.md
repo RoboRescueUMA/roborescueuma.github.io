@@ -1,4 +1,4 @@
-﻿---
+---
 translationKey: lili
 # Display name
 title: Liliya Bakhurska
@@ -15,20 +15,20 @@ role: Ingeniera Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses incluyen robÃ³tica, automÃ¡tica, y programaciÃ³n con Matlab Simulink.
+bio: Mis intereses incluyen robótica, automática, y programación con Matlab Simulink.
 
 interests:
-  - ProgramaciÃ³n
-  - AutomatizaciÃ³n
-  - RobÃ³tica y electrÃ³nica
+  - Programación
+  - Automatización
+  - Robótica y electrónica
 
 education:
   courses:
-    - course: Estudiante de IngenierÃ­a ElectrÃ³nica RobÃ³tica y MecatrÃ³nica
+    - course: Estudiante de Ingeniería Electrónica Robótica y Mecatrónica
       year: 2022-x
 
 # Social/Academic Networking
@@ -39,7 +39,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:0611089608@uma.es'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com
   - icon: linkedin
@@ -73,6 +73,6 @@ user_groups:
 
 
 
-Soy Lili y estoy estudiando ingenierÃ­a robÃ³tica. Me encanta la programaciÃ³n dirigida al control e interacciÃ³n con el mundo fÃ­sico, por ello he decidido complementar mi formaciÃ³n participando en RoboRescue
+Soy Lili y estoy estudiando ingeniería robótica. Me encanta la programación dirigida al control e interacción con el mundo físico, por ello he decidido complementar mi formación participando en RoboRescue
 
 # TODO: translate bio to English

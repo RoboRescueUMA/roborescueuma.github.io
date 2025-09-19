@@ -1,10 +1,10 @@
-﻿---
+---
 translationKey: MatiasLuciano
 # Display name
-title: MatÃ­as Luciano Hecker
+title: Matías Luciano Hecker
 
 # Full Name (for SEO)
-first_name: MatÃ­as Luciano
+first_name: Matías Luciano
 last_name: Hecker
 
 # Is this the primary user of the site?
@@ -15,21 +15,21 @@ role: Ingeniero Hardware
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Me interesa todo lo relacionado con la innovaciÃ³n y la creaciÃ³n de nuevas tecnologÃ­as. Me gusta la mecÃ¡nica y el diseÃ±o de mÃ¡quinas. Me atrae la idea de trabajar en un entorno competitivo donde pueda aprender y mejorarme como futuro ingeniero junto a otros ingenieros con los mismos intereses.
+bio: Me interesa todo lo relacionado con la innovación y la creación de nuevas tecnologías. Me gusta la mecánica y el diseño de máquinas. Me atrae la idea de trabajar en un entorno competitivo donde pueda aprender y mejorarme como futuro ingeniero junto a otros ingenieros con los mismos intereses.
 
 interests:
-  - InnovaciÃ³n y creaciÃ³n de nuevas tecnologÃ­as.
-  - MecÃ¡nica y diseÃ±o.
-  - InvestigaciÃ³n y trabajo en equipo.
+  - Innovación y creación de nuevas tecnologías.
+  - Mecánica y diseño.
+  - Investigación y trabajo en equipo.
 
 education:
   courses:
-    - course: Estudiante de 2Â° de ingenierÃ­a MecÃ¡nica
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de 2° de ingeniería Mecánica
+      institution: Universidad de Málaga
       year: 2023
 
 # Social/Academic Networking
@@ -68,6 +68,6 @@ user_groups:
 
 
 
-Soy estudiante de ingenierÃ­a mecÃ¡nica de 19 aÃ±os. Soy un apasionado de la tecnologÃ­a y la innovaciÃ³n que estÃ¡ dispuesto siempre a aprender y a trabajar lo mÃ¡ximo posible. Me gusta poder aportar ideas creativas y resolver problemas prÃ¡cticos en un entorno de trabajo real. 
+Soy estudiante de ingeniería mecánica de 19 años. Soy un apasionado de la tecnología y la innovación que está dispuesto siempre a aprender y a trabajar lo máximo posible. Me gusta poder aportar ideas creativas y resolver problemas prácticos en un entorno de trabajo real. 
 
 # TODO: translate bio to English

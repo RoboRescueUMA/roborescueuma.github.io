@@ -1,4 +1,4 @@
-﻿---
+---
 translationKey: JuanMa
 # Display name
 title: Juan M. Gandarias
@@ -15,7 +15,7 @@ role: Coordinador
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 

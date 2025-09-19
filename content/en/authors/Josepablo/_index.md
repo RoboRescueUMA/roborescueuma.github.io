@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: Josepablo
 # Display name
-title: Jose Pablo RecaÃ±o
+title: Jose Pablo Recaño
 
 # Full Name (for SEO)
 first_name: Angel
-last_name: AgÃ¼era
+last_name: Agüera
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,24 +15,24 @@ role: Ingeniero Hardware
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses incluyen robÃ³tica, automÃ¡tica, y programaciÃ³n con Matlab Simulink.
+bio: Mis intereses incluyen robótica, automática, y programación con Matlab Simulink.
 
 interests:
-  - DiseÃ±o GrÃ¡fico
-  - DiseÃ±o y programaciÃ³n de Robots
-  - AutomÃ¡tica con PLC
+  - Diseño Gráfico
+  - Diseño y programación de Robots
+  - Automática con PLC
 
 education:
   courses:
-    - course: TÃ©cnico en AutomatizaciÃ³n y RobÃ³tica Industrial
-      institution: Colegio Concertado San JosÃ©
+    - course: Técnico en Automatización y Robótica Industrial
+      institution: Colegio Concertado San José
       year: 2023
-    - course: Estudiante de IngenierÃ­a ElectrÃ³nica Industrial
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de Ingeniería Electrónica Industrial
+      institution: Universidad de Málaga
       year: 2023-x
 
 # Social/Academic Networking
@@ -43,7 +43,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jaguayo@uma.es'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com
   - icon: linkedin
@@ -79,8 +79,8 @@ user_groups:
 
 Mi objetivos actuales son varios, pero los principales tres son:
 
-Crear una red de contactos con empresas, estudiantes y profesores. ðŸŒ
-Aprender todo lo posible tanto dentro como fuera de las clases. ðŸ§‘â€ðŸŽ“
-Disfrutar al mÃ¡ximo y sin prisa mi vida universitaria. ðŸ»
+Crear una red de contactos con empresas, estudiantes y profesores. 🌐
+Aprender todo lo posible tanto dentro como fuera de las clases. 🧑‍🎓
+Disfrutar al máximo y sin prisa mi vida universitaria. 🍻
 
 # TODO: translate bio to English

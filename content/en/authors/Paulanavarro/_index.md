@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: Paulanavarro
 # Display name
-title: Paula Navarro AlarcÃ³n
+title: Paula Navarro Alarcón
 
 # Full Name (for SEO)
 first_name: Paula
-last_name: Navarro AlarcÃ³n
+last_name: Navarro Alarcón
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,20 +15,20 @@ role: Departamento de marketing
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interesada en diseÃ±o y fotografÃ­a.
+bio: Interesada en diseño y fotografía.
 
 interests:
-  - FotografÃ­a.
-  - DiseÃ±o.
+  - Fotografía.
+  - Diseño.
 
 education:
   courses:
-    - course: Estudiante de 3Â° de MÃ¡rketing e InvestigaciÃ³n de Mercados
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de 3° de Márketing e Investigación de Mercados
+      institution: Universidad de Málaga
       year: 2022
 
 # Social/Academic Networking

@@ -1,35 +1,35 @@
-﻿---
+---
 translationKey: Nuria
 # Display name
 title: Nuria 
 
 # Full Name (for SEO)
 first_name: Nuria
-last_name: MuÃ±oz
+last_name: Muñoz
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Jefa de MecÃ¡nica
+role: Jefa de Mecánica
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses incluyen robÃ³tica de recate, automÃ¡tica, y programaciÃ³n con Matlab Simulink.
+bio: Mis intereses incluyen robótica de recate, automática, y programación con Matlab Simulink.
 
 interests:
   - Robot Control
   - Inteligencia Artificial
-  - DiseÃ±o y ProgramaciÃ³n con Simulink de Robots
+  - Diseño y Programación con Simulink de Robots
 
 education:
   courses:
-    - course: Licenciado en InformÃ¡tica
-      institution: Universidad de MÃ¡laga
+    - course: Licenciado en Informática
+      institution: Universidad de Málaga
       year: 2000
 
 # Social/Academic Networking
@@ -40,7 +40,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:aj@uma.es'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: linkedin

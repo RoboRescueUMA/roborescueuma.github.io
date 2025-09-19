@@ -1,4 +1,4 @@
-﻿---
+---
 translationKey: ElidiaBeatriz
 # Display name
 title: Elidia Beatriz Blazquez Parra
@@ -7,7 +7,7 @@ title: Elidia Beatriz Blazquez Parra
 superuser: false
 
 # Role/position
-role: Departamento de ExpresiÃ³n GrÃ¡fica, DiseÃ±o y Proyectos
+role: Departamento de Expresión Gráfica, Diseño y Proyectos
 
 
 # Organizational groups that you belong to (for People widget)

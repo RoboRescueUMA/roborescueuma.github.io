@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: juanL
 # Display name
-title: Juan LÃ³pez Puebla
+title: Juan López Puebla
 
 # Full Name (for SEO)
 first_name: Juan
-last_name: _LÃ³pez
+last_name: _López
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,11 +15,11 @@ role: Team Leader
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interesado en RobÃ³tica de rescate y aplicaciÃ³n profesional de drones. 
+bio: Interesado en Robótica de rescate y aplicación profesional de drones. 
 
 interests:
   - Robot Control
@@ -28,8 +28,8 @@ interests:
 
 education:
   courses:
-    - course: Estudiante de ingenierÃ­a ElectrÃ³nica, RobÃ³tica y MecatrÃ³nica.
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de ingeniería Electrónica, Robótica y Mecatrónica.
+      institution: Universidad de Málaga
       year: 2020
 
 # Social/Academic Networking

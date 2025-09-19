@@ -38,7 +38,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:0611105362@uma.es'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com
   - icon: linkedin

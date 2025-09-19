@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: eva
 # Display name
-title: Eva RomÃ¡n Aguirre
+title: Eva Román Aguirre
 
 # Full Name (for SEO)
 first_name: Eva
-last_name: RomÃ¡n
+last_name: Román
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,22 +15,22 @@ role: Jefa de Marketing
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses son la fotografÃ­a, la lectura y el diseÃ±o.
+bio: Mis intereses son la fotografía, la lectura y el diseño.
 
 interests:
   - NeuroMarketing
   - BigData
-  - InvestigaciÃ³n de Mercados y Comportamiento del consumidor
+  - Investigación de Mercados y Comportamiento del consumidor
 
 education:
   courses:
-    - course: Marketing e InvestigaciÃ³n de Mercados
-      institution: Universidad de MÃ¡laga
-      year: 2024 (3Âº)
+    - course: Marketing e Investigación de Mercados
+      institution: Universidad de Málaga
+      year: 2024 (3º)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -40,7 +40,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:evaroman@uma.es'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: linkedin
@@ -74,7 +74,7 @@ user_groups:
 
 
 
-Soy Eva, estudiante de Marketing y la investigaciÃ³n de mercados en la UMA. 
-Soy una persona planificadora que se adapta muy bien a los problemas. Mi objetivo a corto plazo es ganar experiencia de cualquier tipo relacionado con mi carrera universitaria para conseguir mis objetivosÂ aÂ largoÂ plazo.
+Soy Eva, estudiante de Marketing y la investigación de mercados en la UMA. 
+Soy una persona planificadora que se adapta muy bien a los problemas. Mi objetivo a corto plazo es ganar experiencia de cualquier tipo relacionado con mi carrera universitaria para conseguir mis objetivos a largo plazo.
 
 # TODO: translate bio to English

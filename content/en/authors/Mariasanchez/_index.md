@@ -1,7 +1,7 @@
-﻿---
+---
 translationKey: Mariasanchez
 # Display name
-title: MarÃ­a SÃ¡nchez GonzÃ¡lez
+title: María Sánchez González
 
 # Is this the primary user of the site?
 superuser: false

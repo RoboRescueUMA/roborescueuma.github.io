@@ -1,13 +1,13 @@
-﻿---
+---
 translationKey: JorgeRomero
 # Display name
-title: Jorge Romero SÃ¡nchez
+title: Jorge Romero Sánchez
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Departamento de ElectrÃ³nica
+role: Departamento de Electrónica
 
 
 # Organizational groups that you belong to (for People widget)

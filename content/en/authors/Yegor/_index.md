@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: Yegor
 # Display name
-title: Yegor Antonio Radchenko VillacrÃ©s
+title: Yegor Antonio Radchenko Villacrés
 
 # Full Name (for SEO)
 first_name: Yegor Antonio
-last_name: Radchenko VillacrÃ©s
+last_name: Radchenko Villacrés
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,21 +15,21 @@ role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interesado en RobÃ³tica, concretamente en el software.
+bio: Interesado en Robótica, concretamente en el software.
 
 interests:
-  - RobÃ³tica.
+  - Robótica.
   - Software.
-  - AutomatizaciÃ³n.
+  - Automatización.
 
 education:
   courses:
-    - course: Estudiante de 2Â° de ingenierÃ­a ElectrÃ³nica, RobÃ³tica y MecatrÃ³nica
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de 2° de ingeniería Electrónica, Robótica y Mecatrónica
+      institution: Universidad de Málaga
       year: 2023
 
 # Social/Academic Networking
@@ -68,8 +68,8 @@ user_groups:
 
 
 
-IÂ´m Yegor. IÂ´ve some exprience working in automation using Siemens PLCÂ´s and now IÂ´m learning robotics at the University of Malaga (UMA)
+I´m Yegor. I´ve some exprience working in automation using Siemens PLC´s and now I´m learning robotics at the University of Malaga (UMA)
 
-ðŸ”­ Iâ€™m currently working at RoboRescue Team at UMA
+🔭 I’m currently working at RoboRescue Team at UMA
 
 # TODO: translate bio to English

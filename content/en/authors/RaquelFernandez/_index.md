@@ -1,13 +1,13 @@
-﻿---
+---
 translationKey: RaquelFernandez
 # Display name
-title: Raquel FernÃ¡ndez Ramos
+title: Raquel Fernández Ramos
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Departamento de ElectrÃ³nica
+role: Departamento de Electrónica
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

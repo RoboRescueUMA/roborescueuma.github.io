@@ -43,7 +43,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:angel.aguera@uma.es'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: 
   - icon: linkedin

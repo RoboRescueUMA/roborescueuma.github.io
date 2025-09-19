@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: Ibai
 # Display name
-title: Ibai GutiÃ©rrez PÃ¡ez
+title: Ibai Gutiérrez Páez
 
 # Full Name (for SEO)
 first_name: Ibai
-last_name: GutiÃ©rrez PÃ¡ez
+last_name: Gutiérrez Páez
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,21 +15,21 @@ role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interesado en RobÃ³tica, especialmente en el desarrollo de robots autÃ³nomos.
+bio: Interesado en Robótica, especialmente en el desarrollo de robots autónomos.
 
 interests:
   - Robot Control.
-  - Robots autÃ³nomos.
-  - EnergÃ­a renovable.
+  - Robots autónomos.
+  - Energía renovable.
 
 education:
   courses:
-    - course: Estudiante de 2Â° de ingenierÃ­a ElectrÃ³nica, RobÃ³tica y MecatrÃ³nica
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de 2° de ingeniería Electrónica, Robótica y Mecatrónica
+      institution: Universidad de Málaga
       year: 2023
 
 # Social/Academic Networking
@@ -71,6 +71,6 @@ user_groups:
 
 
 
-Soy Ibai, un estudiante con una buena rutina de estudio centrado en acabar la carrera priorizando el aprendizaje sobre todo. Por ello mismo pertenezco al equipo, para aprender lo mÃ¡ximo posible sobre el proceso de desarrollo de un robot y el trabajo en equipo que esto supone. Abierto a todas las experiencias enriquecedoras en mi formaciÃ³n, Â¡seguimos apoyando en lo que podamos!
+Soy Ibai, un estudiante con una buena rutina de estudio centrado en acabar la carrera priorizando el aprendizaje sobre todo. Por ello mismo pertenezco al equipo, para aprender lo máximo posible sobre el proceso de desarrollo de un robot y el trabajo en equipo que esto supone. Abierto a todas las experiencias enriquecedoras en mi formación, ¡seguimos apoyando en lo que podamos!
 
 # TODO: translate bio to English

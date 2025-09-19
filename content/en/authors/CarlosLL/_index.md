@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: CarlosLL
 # Display name
-title: Carlos LÃ³pez Lovera
+title: Carlos López Lovera
 
 # Full Name (for SEO)
 first_name: Carlos
-last_name: LÃ³pez Lovera
+last_name: López Lovera
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,7 +15,7 @@ role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,13 +23,13 @@ bio: Interesado especialmente en Inteligencia artificial entre otros.
 
 interests:
   - Inteligencia Artificial.
-  - ElectrÃ³nica.
-  - DiseÃ±o 3D.
+  - Electrónica.
+  - Diseño 3D.
 
 education:
   courses:
-    - course: Estudiante de 1Â° de ingenierÃ­a InformÃ¡tica
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de 1° de ingeniería Informática
+      institution: Universidad de Málaga
       year: 2024
 
 # Social/Academic Networking
@@ -42,7 +42,7 @@ social:
     link: 'mailto:carlos09102007@gmail.com'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/carlos-lÃ³pez-lovera-3115182a6/
+    link: https://www.linkedin.com/in/carlos-lópez-lovera-3115182a6/
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/carlesleee95/
@@ -71,6 +71,6 @@ user_groups:
 
 
 
-Mi nombre es Carlos y estudio IngenierÃ­a InformÃ¡tica en la UMA. ComencÃ© a estar interesado en la robÃ³tica desde los 9 aÃ±os al apuntarme a clases particulares de robÃ³tica y a dÃ­a de hoy sigo y seguirÃ© conectado con el mundo de la tecnologÃ­a.
+Mi nombre es Carlos y estudio Ingeniería Informática en la UMA. Comencé a estar interesado en la robótica desde los 9 años al apuntarme a clases particulares de robótica y a día de hoy sigo y seguiré conectado con el mundo de la tecnología.
 
 # TODO: translate bio to English

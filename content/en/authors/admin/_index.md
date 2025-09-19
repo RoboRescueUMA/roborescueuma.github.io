@@ -37,9 +37,10 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
+  - icon: envelope
     icon_pack: fas
     link: 'mailto:aj@uma.es'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: linkedin

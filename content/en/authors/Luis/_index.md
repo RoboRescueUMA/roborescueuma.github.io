@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: Luis
 # Display name
-title: Luis EspaÃ±a Carnero
+title: Luis España Carnero
 
 # Full Name (for SEO)
 first_name: Luis
-last_name: EspaÃ±a Carnero
+last_name: España Carnero
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,21 +15,21 @@ role: Co-leader Hardware
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses incluyen robÃ³tica, impresiÃ³n 3D y diseÃ±o 3D.
+bio: Mis intereses incluyen robótica, impresión 3D y diseño 3D.
 
 interests:
-  - ImpresiÃ³n 3D
-  - DiseÃ±o 3D
-  - RobÃ³tica y electrÃ³nica
+  - Impresión 3D
+  - Diseño 3D
+  - Robótica y electrónica
 
 education:
   courses:
-    - course: Graduado en IngenierÃ­a ElectrÃ³ncia, RobÃ³tica y MecatrÃ³nica (3Âº)
-      institution: Universidad de MÃ¡laga
+    - course: Graduado en Ingeniería Electróncia, Robótica y Mecatrónica (3º)
+      institution: Universidad de Málaga
       year: 2024
 
 # Social/Academic Networking
@@ -67,6 +67,6 @@ user_groups:
 ---
 
 
-Soy Luis, estudio IngenierÃ­a RobÃ³tica en la UMA. Mi objetivo es complementar mis estudios universitarios para adquirir mÃ¡s conocimiento y ganar experiencia y prÃ¡ctica en proyectos de equipo, siempre con ganas de aprender mÃ¡s y mejorar.
+Soy Luis, estudio Ingeniería Robótica en la UMA. Mi objetivo es complementar mis estudios universitarios para adquirir más conocimiento y ganar experiencia y práctica en proyectos de equipo, siempre con ganas de aprender más y mejorar.
 
 # TODO: translate bio to English

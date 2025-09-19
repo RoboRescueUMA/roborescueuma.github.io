@@ -1,13 +1,13 @@
-﻿---
+---
 translationKey: AmaliaCristina
 # Display name
-title: Amalia Cristina Urdiales GarcÃ­a
+title: Amalia Cristina Urdiales García
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Departamento de TecnologÃ­a ElectrÃ³nica
+role: Departamento de Tecnología Electrónica
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

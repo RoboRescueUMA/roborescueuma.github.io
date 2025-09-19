@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: Salva
 # Display name
-title: Salvador Patricio LÃ¡zaro Herrero
+title: Salvador Patricio Lázaro Herrero
 
 # Full Name (for SEO)
 first_name: Salvador Patricio
-last_name: LÃ¡zaro Herrero
+last_name: Lázaro Herrero
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,21 +15,21 @@ role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interesado en RobÃ³tica y aeronÃ¡utica.
+bio: Interesado en Robótica y aeronáutica.
 
 interests:
-  - ProgramaciÃ³n.
+  - Programación.
   - Emprendimiento.
-  - AeronÃ¡utica.
+  - Aeronáutica.
 
 education:
   courses:
-    - course: Estudiante de 3Â° de ingenierÃ­a ElectrÃ³nica, RobÃ³tica y MecatrÃ³nica
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de 3° de ingeniería Electrónica, Robótica y Mecatrónica
+      institution: Universidad de Málaga
       year: 2022
 
 # Social/Academic Networking
@@ -66,6 +66,6 @@ user_groups:
   - Software
 ---
 
-Apasionado por el mundo de la robÃ³tica. Soy ambicioso y cÃ¡lido, dispuesto a luchar por conseguir mis objetivos.
+Apasionado por el mundo de la robótica. Soy ambicioso y cálido, dispuesto a luchar por conseguir mis objetivos.
 
 # TODO: translate bio to English

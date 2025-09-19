@@ -1,10 +1,10 @@
-﻿---
+---
 translationKey: Ivan
 # Display name
-title: IvÃ¡n Moreno Ladaga
+title: Iván Moreno Ladaga
 
 # Full Name (for SEO)
-first_name: IvÃ¡n
+first_name: Iván
 last_name: Moreno Ladaga
 
 # Is this the primary user of the site?
@@ -15,21 +15,21 @@ role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interesado en RobÃ³tica, computaciÃ³n cuÃ¡ntica y en IA.
+bio: Interesado en Robótica, computación cuántica y en IA.
 
 interests:
-  - ComputaciÃ³n cuÃ¡ntica.
+  - Computación cuántica.
   - Inteligencia Artificial.
-  - RobÃ³tica.
+  - Robótica.
 
 education:
   courses:
-    - course: Estudiante de 3Â° de ingenierÃ­a ElectrÃ³nica, RobÃ³tica y MecatrÃ³nica
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de 3° de ingeniería Electrónica, Robótica y Mecatrónica
+      institution: Universidad de Málaga
       year: 2023
 
 # Social/Academic Networking
@@ -70,6 +70,6 @@ user_groups:
 
 Mi objetivos actuales son varios, pero los principales tres son:
 
-Crear una red de contactos con empresas, estudiantes y profesores. ðŸŒ Aprender todo lo posible tanto dentro como fuera de las clases. ðŸ§‘â€ðŸŽ“ Disfrutar al mÃ¡ximo y sin prisa mi vida universitaria. ðŸ»
+Crear una red de contactos con empresas, estudiantes y profesores. 🌐 Aprender todo lo posible tanto dentro como fuera de las clases. 🧑‍🎓 Disfrutar al máximo y sin prisa mi vida universitaria. 🍻
 
 # TODO: translate bio to English

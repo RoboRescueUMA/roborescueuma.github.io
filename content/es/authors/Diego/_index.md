@@ -40,7 +40,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:dcaruanamontes@uma.es'
-#  - icon: twitter
+#  - icon: x-twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
   - icon: linkedin

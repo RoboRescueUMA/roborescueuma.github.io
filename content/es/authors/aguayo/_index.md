@@ -42,7 +42,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jaguayo@uma.es'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com
   - icon: linkedin

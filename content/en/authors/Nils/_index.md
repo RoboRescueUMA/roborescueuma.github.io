@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: Nils
 # Display name
-title: Nils MuÃ±oz Reul
+title: Nils Muñoz Reul
 
 # Full Name (for SEO)
 first_name: Nils
-last_name: MuÃ±oz Reul
+last_name: Muñoz Reul
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,11 +15,11 @@ role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interesado en robÃ³tica espacial, inteligencia artificial y robÃ³tica, y en la lectura.
+bio: Interesado en robótica espacial, inteligencia artificial y robótica, y en la lectura.
 
 interests:
   - Robotica espacial.
@@ -28,8 +28,8 @@ interests:
 
 education:
   courses:
-    - course: Estudiante de 1Â° de ingenierÃ­a ElectrÃ³nica, RobÃ³tica y MecatrÃ³nica
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de 1° de ingeniería Electrónica, Robótica y Mecatrónica
+      institution: Universidad de Málaga
       year: 2024
 
 # Social/Academic Networking
@@ -66,6 +66,6 @@ user_groups:
 
 
 
-Soy Nils, alumno de primero del grado de ingenierÃ­a electrÃ³nica, robÃ³tica y mecatrÃ³nica en la Universidad de MÃ¡laga. Me apuntÃ© a Roborescue con el objetivo de aprender a desarrollar mis habilidades y mejorar mis capacidades como ingeniero, asÃ­ como aportar contribuciones valisosas al equipo y al proyecto. 
+Soy Nils, alumno de primero del grado de ingeniería electrónica, robótica y mecatrónica en la Universidad de Málaga. Me apunté a Roborescue con el objetivo de aprender a desarrollar mis habilidades y mejorar mis capacidades como ingeniero, así como aportar contribuciones valisosas al equipo y al proyecto. 
 
 # TODO: translate bio to English

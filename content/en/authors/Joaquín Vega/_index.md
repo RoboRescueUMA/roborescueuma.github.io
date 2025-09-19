@@ -1,11 +1,11 @@
-﻿---
-translationKey: Joaquín Vega
+---
+translationKey: Joaqu�n Vega
 # Display name
-title: JoaquÃ­n Vega BenÃ­tez
+title: Joaquín Vega Benítez
 
 # Full Name (for SEO)
-first_name: JoaquÃ­n
-last_name: Vega BenÃ­tez
+first_name: Joaquín
+last_name: Vega Benítez
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,21 +15,21 @@ role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interesado en RobÃ³tica, especialmente en diseÃ±o y programaciÃ³n.
+bio: Interesado en Robótica, especialmente en diseño y programación.
 
 interests:
-  - DiseÃ±o y programaciÃ³n de robots.
-  - ProgramaciÃ³n de PLC.
+  - Diseño y programación de robots.
+  - Programación de PLC.
   - Control de procesos.
 
 education:
   courses:
-    - course: Estudiante de 4Â° de ingenierÃ­a ElectrÃ³nica, RobÃ³tica y MecatrÃ³nica
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de 4° de ingeniería Electrónica, Robótica y Mecatrónica
+      institution: Universidad de Málaga
       year: 2020
 
 # Social/Academic Networking
@@ -68,6 +68,6 @@ user_groups:
 
 
 
-Soy JoaquÃ­n, estudiante de RobÃ³tica en la UMA. Busco expandir mis conocimientos sobre todos los temas posibles para poder aportar algo Ãºtil al mundo. Mis principales intereses actualmente son la robÃ³tica y la electrÃ³nica. Me unÃ­ al grupo para poder adquirir experiencia en un proyecto real y asÃ­ tener un preparaciÃ³n mÃ¡s avanzada.
+Soy Joaquín, estudiante de Robótica en la UMA. Busco expandir mis conocimientos sobre todos los temas posibles para poder aportar algo útil al mundo. Mis principales intereses actualmente son la robótica y la electrónica. Me uní al grupo para poder adquirir experiencia en un proyecto real y así tener un preparación más avanzada.
 
 # TODO: translate bio to English

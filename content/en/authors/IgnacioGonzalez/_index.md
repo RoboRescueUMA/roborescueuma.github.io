@@ -1,13 +1,13 @@
-﻿---
+---
 translationKey: IgnacioGonzalez
 # Display name
-title: Ignacio GonzÃ¡lez Prieto
+title: Ignacio González Prieto
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Departamento de IngenierÃ­a ElÃ©ctrica
+role: Departamento de Ingeniería Eléctrica
 
 
 # Organizational groups that you belong to (for People widget)

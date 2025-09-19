@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: MiguelI
 # Display name
-title: Miguel Ian GarcÃ­a Pozo
+title: Miguel Ian García Pozo
 
 # Full Name (for SEO)
 first_name: Antonio
-last_name: MuÃ±oz
+last_name: Muñoz
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,21 +15,21 @@ role: Jefe de Software
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses incluyen robÃ³tica de recate, automÃ¡tica y programaciÃ³n.
+bio: Mis intereses incluyen robótica de recate, automática y programación.
 
 interests:
   - Robot Control
   - Aplicaciones en proyectos de la Inteligencia Artificial
-  - DiseÃ±o y ProgramaciÃ³n
+  - Diseño y Programación
 
 education:
   courses:
-    - course: Estudiante de 4Â° de ingenierÃ­a ElectrÃ³nica, RobÃ³tica y MecatrÃ³nica
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de 4° de ingeniería Electrónica, Robótica y Mecatrónica
+      institution: Universidad de Málaga
       year: 2021
 
 # Social/Academic Networking
@@ -68,6 +68,6 @@ user_groups:
 
 
 
-Me gusta aprender de todo y hacer todo tipo de proyectos. Me interesa la electrÃ³nica, el diseÃ±o 3D, la programaciÃ³n de robots y la aplicaciÃ³n del Machine Learning en la robÃ³tica.
+Me gusta aprender de todo y hacer todo tipo de proyectos. Me interesa la electrónica, el diseño 3D, la programación de robots y la aplicación del Machine Learning en la robótica.
 
 # TODO: translate bio to English

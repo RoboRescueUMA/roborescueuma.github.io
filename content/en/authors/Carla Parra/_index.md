@@ -1,11 +1,11 @@
-﻿---
+---
 translationKey: Carla Parra
 # Display name
-title: Carla Parra GonzÃ¡lez
+title: Carla Parra González
 
 # Full Name (for SEO)
 first_name: Carla
-last_name: Parra GonzÃ¡lez
+last_name: Parra González
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,7 +15,7 @@ role: Departamento de marketing
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de MÃ¡laga
+  - name: Universidad de Málaga
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,8 +27,8 @@ interests:
 
 education:
   courses:
-    - course: Estudiante de 3Â° de MÃ¡rketing e InvestigaciÃ³n de Mercados
-      institution: Universidad de MÃ¡laga
+    - course: Estudiante de 3° de Márketing e Investigación de Mercados
+      institution: Universidad de Málaga
       year: 2022
 
 # Social/Academic Networking
@@ -67,6 +67,6 @@ user_groups:
   - Marketing
 ---
 
-Estudiante de Marketing e InvestigaciÃ³n de Mercados, me entusiasma el mundo empresarial, el emprendimiento y comprender el comportamiento de los consumidores en diferentes Ã¡reas.
+Estudiante de Marketing e Investigación de Mercados, me entusiasma el mundo empresarial, el emprendimiento y comprender el comportamiento de los consumidores en diferentes áreas.
 
 # TODO: translate bio to English

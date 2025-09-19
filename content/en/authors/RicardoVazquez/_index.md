@@ -1,13 +1,13 @@
-﻿---
+---
 translationKey: RicardoVazquez
 # Display name
-title: Ricardo VÃ¡zquez MartÃ­n
+title: Ricardo Vázquez Martín
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Departamento de IngenierÃ­as de Sistemas y AutomÃ¡tica
+role: Departamento de Ingenierías de Sistemas y Automática
 
 
 # Organizational groups that you belong to (for People widget)

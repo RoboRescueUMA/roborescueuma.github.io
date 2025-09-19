@@ -1,0 +1,3 @@
+- [ ] Renombrar carpetas en content/es/authors y content/en/authors
+- [ ] Quitar o reemplazar placeholders
+- [ ] Encuestar a los miembros para información actualizada, fotos y redes sociales

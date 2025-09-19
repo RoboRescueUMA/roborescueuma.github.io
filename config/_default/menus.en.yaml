@@ -13,6 +13,9 @@ main:
   - name: Team
     url: people
     weight: 30
+  - name: Organizational Chart
+    url: organigrama
+    weight: 35
   - name: Contact
     url: contact
     weight: 40

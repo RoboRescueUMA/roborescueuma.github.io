@@ -28,4 +28,3 @@ Las tareas pendientes, en orden de prioridad, son:
 ## Para contribuidores
 - Documentación de HugoBlox: https://docs.hugoblox.com/
 - El repositorio cuenta con un archivo [.editorconfig](.editorconfig) para mantener consistencia. Es recomendable instalar su [plugin](https://editorconfig.org/#download) en el IDE que se utilice.
--

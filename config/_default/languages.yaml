@@ -7,11 +7,7 @@
 es:
   languageCode: es
   contentDir: content/es
- 
 
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
-
-

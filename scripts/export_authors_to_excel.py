@@ -136,6 +136,7 @@ def scan_authors_directory(authors_path: str) -> List[Dict[str, Any]]:
 
             author_info = {
                 'folder_name': author_folder.name,
+                'translationKey': author_folder.name,
                 'has_index': False,
                 'has_avatar': False,
                 'avatar_files': [],
@@ -241,7 +242,7 @@ def export_to_excel(authors_data: List[Dict[str, Any]], output_path: str):
 
         # Reordenar columnas según el formato actual del Excel
         priority_columns = [
-            'folder_name', 'title', 'first_name', 'last_name', 'superuser',
+            'folder_name', 'translationKey', 'title', 'first_name', 'last_name', 'superuser',
             'role',
             'organizations_text',
             'user_groups_text',
@@ -337,7 +338,7 @@ def main():
 
     # Rutas
     script_dir = Path(__file__).parent
-    project_root = script_dir.parent.parent  # Subir dos niveles desde scripts/python
+    project_root = script_dir.parent
     authors_path = project_root / "content" / "es" / "authors"
     output_path = project_root / "authors.xlsx"
 

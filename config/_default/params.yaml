@@ -22,12 +22,15 @@ marketing:
     twitter: "RoborescueUMA"
   analytics:
     google_analytics: "G-73TK9B3KF0"
-    baidu_tongji: ""
     google_tag_manager: "" # Optionally GTM-XXXXXXX
     microsoft_clarity: "" # Optionally Clarity ID
   verification:
     google: ""
-    baidu: ""
+
+# Google Analytics (formato nuevo para Hugo v0.128+)
+services:
+  googleAnalytics:
+    id: "G-73TK9B3KF0"
 
 # Site header
 

@@ -1,4 +1,5 @@
 ---
+translationKey: contact
 title: Contact
 description: "Get in touch with RoboRescue UMA: students, sponsors, collaborators. Location, office hours, and contact form."
 date: 2024-09-23
@@ -12,7 +13,7 @@ sections:
       text: |-
         If you are a student who wants to join our team, a company interested in sponsoring us, or simply someone curious about our project, feel free to reach out!
       email: roborescue@uma.es
-  # phone: (add phone number here if desired)
+      # phone: (add phone number here if desired)
       address:
         street: UMA Engineering Building, Arquitecto Francisco Peñalosa, 6
         city: Malaga
@@ -25,18 +26,18 @@ sections:
         longitude: '-4.49056'
       directions: Enter the workshop area, turn left, first door (Workshop 27)
       office_hours:
-        - 'Tuesday 15:00–18:00'
-        - 'Thursday 15:00–16:15'
-      appointment_url: 'https://calendly.com'
+        - 'Tuesday 15:00 - 18:00'
+        - 'Thursday 15:00 - 16:15'
+      # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
       #    name: Discuss on Forum
       #    link: 'https://discourse.gohugo.io'
-    
+
       # Automatically link email and phone or display as text?
       autolink: true
-    
+
       # Email form provider
       form:
         provider: netlify
@@ -56,7 +57,7 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
+        image:
           filename: contact.jpg
           filters:
             brightness: 1

@@ -26,7 +26,7 @@ sections:
           description: "**Liderazgo operativo:** Gestión de proyectos, coordinación técnica y planificación estratégica"
           icon: users
           icon_pack: fas
-        - name: "Mentores"  
+        - name: "Mentores"
           description: "**Guía y formación:** Mentoría técnica, transferencia de conocimiento y apoyo especializado"
           icon: user-graduate
           icon_pack: fas
@@ -69,7 +69,7 @@ sections:
     design:
       columns: '2'
 
-  - block: hero
+  - block: features
     content:
       title: "🎓 Antiguos Miembros"
       text: "**Red de experiencia**  \nGraduados que mantienen vínculos con el proyecto y aportan su experiencia profesional"
@@ -79,14 +79,14 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
 
-  - block: collection
+  - block: markdown
     content:
       title: "🔄 Flujo de Comunicación Organizacional"
       subtitle: "Estructura de comunicación y coordinación del equipo"
       text: |
-        **📋 Planificación:** Coordinadores → Jefes de Equipo  
-        **⚡ Ejecución:** Jefes de Equipo → Equipos Técnicos  
-        **🧠 Mentoría:** Mentores → Todos los niveles  
+        **📋 Planificación:** Coordinadores → Jefes de Equipo
+        **⚡ Ejecución:** Jefes de Equipo → Equipos Técnicos
+        **🧠 Mentoría:** Mentores → Todos los niveles
         **📊 Seguimiento:** Equipos Técnicos → Coordinación
     design:
       view: compact
@@ -96,8 +96,8 @@ sections:
     content:
       title: "ℹ️ Información del Organigrama"
       text: |
-        **📅 Última actualización:** Septiembre 2025  
-        **�️ Estructura:** Basada en competencias técnicas y responsabilidades organizacionales  
+        **📅 Última actualización:** Septiembre 2025
+        **�️ Estructura:** Basada en competencias técnicas y responsabilidades organizacionales
         **🔄 Flexibilidad:** Los miembros pueden participar en múltiples áreas según necesidades del proyecto
 
   - block: people

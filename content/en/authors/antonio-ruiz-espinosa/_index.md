@@ -5,7 +5,7 @@ title: Antonio Ruiz Espinosa
 
 # Is this the primary user of the site?
 superuser: false
-    
+
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
@@ -15,6 +15,4 @@ user_groups:
   - Alumni
 ---
 
-Su paso por el equipo será recordado con cariño, ya que gracias a los que trabajaron en el pasado hemos llegado a ser lo que somos. 
-
-# TODO: translate bio to English
+His time on the team will be fondly remembered, as it's thanks to those who worked with him in the past that we've become what we are today.

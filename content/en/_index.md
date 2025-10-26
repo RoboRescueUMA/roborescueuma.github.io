@@ -15,7 +15,7 @@ sections:
         alt: RoboRescue UMA logo
       url: '#home'
       text: |
-        <div style="text-align: justify">
+        <div style="text-align: left">
         We are a multidisciplinary team of students from the University of Málaga focused on rescue robotics. The project started in 2019 to showcase practical solutions that robotics and automation can bring to real-world emergency scenarios.
         </div>
 

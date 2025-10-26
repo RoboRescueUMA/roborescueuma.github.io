@@ -16,27 +16,28 @@ sections:
         alt: Logo RoboRescue UMA
       url: '#inicio'
       text: |
-         <div style="text-align: justify">
+         <div style="text-align: left">
             Somos un equipo compuesto por estudiantes de diversos ámbitos pertenecientes a la Universidad de Málaga unidos con un fin común. Nos dedicamos al desarrollo tecnológico-robótico de rescate. Este proyecto comenzó en 2019, con la intención de dar visibilidad a las posibles
             soluciones prácticas que podemos encontrar gracias a la robótica, y a la automatización.
           </div>
 
-  - block: collection
-    content:
-      title: Noticias Recientes
-      subtitle: Actualizaciones del proyecto HORU y actividades
-      text:
-      count: 5
-      filters:
-        folders:
-          - noticias
-        exclude_featured: false
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+# No hay noticias actualmente
+#  - block: collection
+#    content:
+#      title: Noticias Recientes
+#      subtitle: Actualizaciones del proyecto HORU y actividades
+#      text:
+#      count: 5
+#      filters:
+#        folders:
+#          - noticias
+#        exclude_featured: false
+#      offset: 0
+#      order: desc
+#      page_type: post
+#    design:
+#      view: card
+#      columns: '1'
 
   - block: markdown
     content:
@@ -81,7 +82,7 @@ sections:
           image:
             filename: coders.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
       - title: Talleres, Charlas y Lunch & Learn ☕️
@@ -107,7 +108,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: ¨¡Únete al Equipo!
+          text: ¡Únete al Equipo!
           url: https://forms.gle/wGeDcg52BzjjMgvU8
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')

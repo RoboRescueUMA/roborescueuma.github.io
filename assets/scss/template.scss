@@ -1,9 +1,41 @@
-// Make page header alignment consistent with widget page header alignment
-.universal-wrapper h1 {
-  text-align: center;
+// Fullscreen hero sections - occupy full viewport height
+.wg-hero.fullscreen {
+    min-height: 100vh !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    // Ensure container is properly positioned
+    .container {
+        position: relative;
+        z-index: 1;
+    }
 }
 
-// Center the CTA shortcode button
-.cta-group {
-  justify-content: center;
+// Specific styles for donatello section - force white text
+#donatello {
+
+    h1,
+    h2,
+    h3,
+    p,
+    .hero-title,
+    .hero-lead,
+    .section-heading {
+        color: white !important;
+    }
+}
+
+// Specific styles for horu section - force white text
+#horu {
+
+    h1,
+    h2,
+    h3,
+    p,
+    .hero-title,
+    .hero-lead,
+    .section-heading {
+        color: white !important;
+    }
 }

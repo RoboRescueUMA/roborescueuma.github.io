@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Galería
+      title: GALERÍA
       subtitle: Fotos de nuestros eventos y robots
       text: |
         <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">

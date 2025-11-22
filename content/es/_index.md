@@ -6,11 +6,13 @@ type: landing
 sections:
   - block: hero
     design:
+      css_class: fullscreen
       background:
         image:
           filename: donatello/donatello_final.jpg
         text_color_light: true
-      css_class: fullscreen
+
+
 
   - block: features
     id: about
@@ -19,77 +21,95 @@ sections:
       subtitle: Nuestros departamentos
       items:
         - name: Hardware
-          description: Diseño y construcción de robots.
+          description: Mecánica, Electrónica, Neumática. Diseño y construcción de robots robustos para misiones de rescate.
           icon: microchip
           icon_pack: fas
         - name: Software
-          description: Inteligencia y control.
+          description: Visión Artificial, Autonomía, Control. Desarrollamos la inteligencia que da vida a nuestros robots.
           icon: code
           icon_pack: fas
         - name: Comunicación
-          description: Difusión y redes sociales.
+          description: Marketing, Redes Sociales, Diseño. Difundimos nuestro trabajo y conectamos con la comunidad.
           icon: bullhorn
           icon_pack: fas
         - name: Mentores
-          description: Guía y apoyo experto.
+          description: Profesores y expertos que nos guían en nuestro camino hacia la excelencia técnica.
           icon: chalkboard-teacher
           icon_pack: fas
     design:
       columns: 3
       view: showcase
 
-  - block: markdown
+  - block: hero
     id: donatello
     content:
       title: Donatello
       subtitle: Nuestro Robot de Rescate
-      text: |
-        ![Donatello](donatello/donatello_1.jpg)
-        
-        Donatello es nuestro robot insignia, diseñado para operar en entornos hostiles y realizar tareas de rescate. Cuenta con un sistema de tracción avanzado y sensores de última generación.
+      text: Donatello es nuestro robot insignia, diseñado para operar en entornos hostiles y realizar tareas de rescate. Cuenta con un sistema de tracción avanzado y sensores de última generación.
     design:
-      columns: 1
+      css_class: fullscreen
+      background:
+        image:
+          filename: donatello/donatello_8.jpg
+          filters:
+            brightness: 0.5
 
-  - block: markdown
+  - block: hero
     id: horu
     content:
       title: HORU
-      subtitle: El Futuro del Rescate
+      subtitle: Nuestro Prototipo de Nueva Generación
       text: |
-        ![HORU](robots/robot_1.png)
-        
-        HORU es nuestro nuevo prototipo, enfocado en la agilidad y la autonomía. Incorpora nuevas tecnologías de visión artificial y navegación.
+        HORU representa la evolución de nuestro trabajo en robótica autónoma. Este prototipo de nueva generación está diseñado con un enfoque en la **agilidad** y la **autonomía avanzada**.
     design:
-      columns: '1'
+      css_class: fullscreen
+      columns: 2
       background:
-        color: '#f8f9fa'
+        image:
+          filename: robots/robot_1.png
+          filters:
+            brightness: 0.5
 
   - block: features
     id: team
     content:
-      title: Our Team
-      subtitle: Conoce a los miembros
+      title: NUESTRO EQUIPO
+      subtitle: Departamentos y subdepartamentos
       items:
-        - name: Hardware Team
-          description: Los constructores.
+        - name: Hardware
+          description: |
+            **Mecánica**: Diseño estructural y sistemas de movilidad  
+            **Electrónica**: Circuitos, sensores y actuadores  
+            **Neumática**: Sistemas de aire comprimido
           icon: tools
           icon_pack: fas
-        - name: Software Team
-          description: Los programadores.
+        - name: Software
+          description: |
+            **Visión Artificial**: Procesamiento de imágenes  
+            **Autonomía**: Navegación y toma de decisiones  
+            **Control**: Sistemas embebidos y drivers
           icon: laptop-code
           icon_pack: fas
-        - name: Communication Team
-          description: La voz del equipo.
+        - name: Comunicación
+          description: |
+            **Marketing**: Estrategia y contenido  
+            **Redes Sociales**: Gestión de comunidad  
+            **Diseño**: Imagen corporativa y materiales
           icon: comments
           icon_pack: fas
+        - name: Mentores
+          description: |
+            Profesores y profesionales que aportan su experiencia y conocimiento para el desarrollo técnico y personal del equipo.
+          icon: user-graduate
+          icon_pack: fas
     design:
-      columns: '3'
+      columns: '2'
       view: card
 
   - block: markdown
     id: sponsors
     content:
-      title: Sponsors
+      title: PATROCINADORES
       subtitle: Gracias a nuestros patrocinadores
       text: |
         <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -103,7 +123,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contacto
+      title: CONTACTO
       subtitle: Encuéntranos
       email: info@roborescueuma.com
       address:

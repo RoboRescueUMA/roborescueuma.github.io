@@ -1,4 +1,4 @@
-[es]
+[es-es]
 order = ["recipient", "street", "city", "region", "postcode", "country"]
 delimiters = [", ", " ", ", ", " ", ", "]
 originator = "top"

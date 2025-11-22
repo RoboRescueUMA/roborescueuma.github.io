@@ -1,2 +1,0 @@
-[es-es]
-format = "{{name}}\n{{address}}\n{{postalcode}}\n{{city}}\n{{country}}"

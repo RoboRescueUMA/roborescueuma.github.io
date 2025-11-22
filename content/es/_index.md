@@ -55,10 +55,10 @@ sections:
   - block: markdown
     id: donatello
     content:
-      title: Donatello
+      title: DONATELLO
       subtitle: Nuestro Robot de Rescate
       text: |
-        ![Donatello](donatello/donatello_1.jpg)
+        ![Donatello](donatello/donatello_9.jpg)
 
         Donatello es nuestro robot insignia, diseñado para operar en entornos hostiles y realizar tareas de rescate. Cuenta con un sistema de tracción avanzado y sensores de última generación.
     design:

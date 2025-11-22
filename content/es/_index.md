@@ -25,7 +25,7 @@ sections:
           filters:
             brightness: 0.5
         text_color_light: true
-
+ 
   - block: features
     id: about
     content:

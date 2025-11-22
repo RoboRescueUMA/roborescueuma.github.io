@@ -1,119 +1,141 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
+title: RoboRescue UMA
 date: 2022-10-24
 type: landing
-description: "Equipo estudiantil de la Universidad de Málaga dedicado a la robótica de rescate: proyectos, noticias y miembros."
 
 sections:
   - block: hero
-    content:
-      title: |
-        RoboRescue UMA
-
-      image:
-        filename: logoh.png
-        alt: Logo RoboRescue UMA
-      url: '#inicio'
-      text: |
-         <div style="text-align: left">
-            Somos un equipo compuesto por estudiantes de diversos ámbitos pertenecientes a la Universidad de Málaga unidos con un fin común. Nos dedicamos al desarrollo tecnológico-robótico de rescate. Este proyecto comenzó en 2019, con la intención de dar visibilidad a las posibles
-            soluciones prácticas que podemos encontrar gracias a la robótica, y a la automatización.
-          </div>
-
-# No hay noticias actualmente
-#  - block: collection
-#    content:
-#      title: Noticias Recientes
-#      subtitle: Actualizaciones del proyecto HORU y actividades
-#      text:
-#      count: 5
-#      filters:
-#        folders:
-#          - noticias
-#        exclude_featured: false
-#      offset: 0
-#      order: desc
-#      page_type: post
-#    design:
-#      view: card
-#      columns: '1'
-
-# Redundante (ya que hay un slider más abajo)
-#  - block: markdown
-#    content:
-#      title:
-#      subtitle: ''
-#      text:
-#    design:
-#      columns: '1'
-#      background:
-#        image:
-#          filename: coders.jpg
-#          filters:
-#            brightness: 1
-#          parallax: false
-#          position: center
-#          size: cover
-#          text_color_light: true
-#      spacing:
-#        padding: ['20px', '0', '20px', '0']
-#      css_class: fullscreen
-
-
-  - block: slider
-    content:
-      slides:
-      - title: 👋 Bienvenido al Equipo de Robótica de Rescate
-        content: Echa un vistazo en lo que estamos trabajando...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.5
-          position: right
-          color: '#666'
-      - title: Talleres, Charlas y Lunch & Learn ☕️
-        content: '¡Comparte tu conocimiento con el equipo y descubre el excitante mundo de la robótica con nosotros!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: Taller de Baterias para Robots
-        content: '¡Construyendo la batería del nuevo robot HORU!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: ¡Únete al Equipo!
-          url: https://forms.gle/wGeDcg52BzjjMgvU8
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+      css_class: fullscreen
+      background:
+        image:
+          filename: donatello/donatello_final.jpg
+        text_color_light: true
+
+
+
+  - block: features
+    id: about
+    content:
+      title: SOBRE NOSOTROS
+      subtitle: Nuestros departamentos
+      items:
+        - name: Hardware
+          description: Mecánica, Electrónica, Neumática. Diseño y construcción de robots robustos para misiones de rescate.
+          icon: microchip
+          icon_pack: fas
+        - name: Software
+          description: Visión Artificial, Autonomía, Control. Desarrollamos la inteligencia que da vida a nuestros robots.
+          icon: code
+          icon_pack: fas
+        - name: Comunicación
+          description: Marketing, Redes Sociales, Diseño. Difundimos nuestro trabajo y conectamos con la comunidad.
+          icon: bullhorn
+          icon_pack: fas
+        - name: Mentores
+          description: Profesores y expertos que nos guían en nuestro camino hacia la excelencia técnica.
+          icon: chalkboard-teacher
+          icon_pack: fas
+    design:
+      columns: 3
+      view: showcase
+
+  - block: hero
+    id: donatello
+    content:
+      title: Donatello
+      subtitle: Nuestro Robot de Rescate
+      text: Donatello es nuestro robot insignia, diseñado para operar en entornos hostiles y realizar tareas de rescate. Cuenta con un sistema de tracción avanzado y sensores de última generación.
+    design:
+      css_class: fullscreen
+      background:
+        image:
+          filename: donatello/donatello_8.jpg
+          filters:
+            brightness: 0.5
+
+  - block: hero
+    id: horu
+    content:
+      title: HORU
+      subtitle: Nuestro Prototipo de Nueva Generación
+      text: |
+        HORU representa la evolución de nuestro trabajo en robótica autónoma. Este prototipo de nueva generación está diseñado con un enfoque en la **agilidad** y la **autonomía avanzada**.
+    design:
+      css_class: fullscreen
+      columns: 2
+      background:
+        image:
+          filename: robots/robot_1.png
+          filters:
+            brightness: 0.5
+
+  - block: features
+    id: team
+    content:
+      title: NUESTRO EQUIPO
+      subtitle: Departamentos y subdepartamentos
+      items:
+        - name: Hardware
+          description: |
+            **Mecánica**: Diseño estructural y sistemas de movilidad  
+            **Electrónica**: Circuitos, sensores y actuadores  
+            **Neumática**: Sistemas de aire comprimido
+          icon: tools
+          icon_pack: fas
+        - name: Software
+          description: |
+            **Visión Artificial**: Procesamiento de imágenes  
+            **Autonomía**: Navegación y toma de decisiones  
+            **Control**: Sistemas embebidos y drivers
+          icon: laptop-code
+          icon_pack: fas
+        - name: Comunicación
+          description: |
+            **Marketing**: Estrategia y contenido  
+            **Redes Sociales**: Gestión de comunidad  
+            **Diseño**: Imagen corporativa y materiales
+          icon: comments
+          icon_pack: fas
+        - name: Mentores
+          description: |
+            Profesores y profesionales que aportan su experiencia y conocimiento para el desarrollo técnico y personal del equipo.
+          icon: user-graduate
+          icon_pack: fas
+    design:
+      columns: '2'
+      view: card
 
   - block: markdown
+    id: sponsors
     content:
-      title:
-      subtitle:
+      title: PATROCINADORES
+      subtitle: Gracias a nuestros patrocinadores
       text: |
-        {{% cta cta_link="./equipo/" cta_text="Conoce el equipo →" %}}
+        <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+          <img src="logos_y_fondos/Sponsors-24.png" alt="Sponsor 1" style="height: 100px;">
+          <img src="logos_y_fondos/Sponsors-25.png" alt="Sponsor 2" style="height: 100px;">
+          <img src="logos_y_fondos/Sponsors-26.png" alt="Sponsor 3" style="height: 100px;">
+        </div>
     design:
       columns: '1'
+
+  - block: contact
+    id: contact
+    content:
+      title: CONTACTO
+      subtitle: Encuéntranos
+      email: info@roborescueuma.com
+      address:
+        street: Bulevar Louis Pasteur, 35
+        city: Málaga
+        region: Málaga
+        postcode: '29071'
+        country: Spain
+        country_code: ES
+      coordinates:
+        latitude: '36.715'
+        longitude: '-4.478'
+    design:
+      columns: '2'
 ---

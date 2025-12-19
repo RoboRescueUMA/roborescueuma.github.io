@@ -90,7 +90,7 @@ sections:
       user_groups:
         - Coordinadores
         - Mentores
-        - Profesores colaboradores
+        - Jefes de Equipo
         - Jefes de Departamento
         - Hardware
         - Software
@@ -98,6 +98,7 @@ sections:
         - Marketing
         - Web
         - Antiguos miembros
+        - Profesores colaboradores
       sort_by: Params.last_name
       sort_ascending: true
     design:

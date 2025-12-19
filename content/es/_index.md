@@ -82,9 +82,23 @@ sections:
 
   - block: people
     content:
-      title: "Nuestro Equipo"
+      title: Nuestro Equipo
       user_groups:
-        - name: Mentores
+        - Coordinadores
+        - Mentores
+        - Profesores colaboradores
+        - Jefes de Departamento
+        - Hardware
+        - Software
+        - Comunicación
+        - Marketing
+        - Antiguos miembros
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
 
   - block: markdown
     id: sponsors

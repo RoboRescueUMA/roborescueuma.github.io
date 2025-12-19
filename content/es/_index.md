@@ -9,9 +9,6 @@ sections:
     id: inicio
     content:
       title: RoboRescue UMA
-      image:
-        filename: donatello/donatello_mejor_foto.jpg
-        alt: Robot Donatello
       text: |
         Somos un equipo compuesto por estudiantes de diversos ámbitos pertenecientes a la Universidad de Málaga unidos con un fin común. Nos dedicamos al desarrollo tecnológico-robótico de rescate.
       cta:
@@ -24,7 +21,7 @@ sections:
         image:
           filename: donatello/donatello_mejor_foto.jpg
           filters:
-            brightness: 0.5
+            brightness: 0.75
         text_color_light: true
 
   - block: features
@@ -50,59 +47,49 @@ sections:
           icon: chalkboard-teacher
           icon_pack: fas
     design:
-      columns: "2"
+      columns: 2
       view: showcase
 
-  - block: markdown
+  - block: hero
     id: donatello
     content:
       title: DONATELLO
-      subtitle: Nuestro Robot de Rescate
       text: |
-        ![Donatello](donatello/donatello_9.jpg)
-
         Donatello es nuestro robot insignia, diseñado para operar en entornos hostiles y realizar tareas de rescate. Cuenta con un sistema de tracción avanzado y sensores de última generación.
     design:
-      columns: "1"
+      background:
+        image:
+          filename: donatello/donatello_9.jpg
+          filters:
+            brightness: 0.75
+        text_color_light: true
 
-  - block: markdown
+  - block: hero
     id: horu
     content:
       title: HORU
       subtitle: El Futuro del Rescate
       text: |
-        ![HORU](robots/robot_1.png)
-
         HORU es nuestro nuevo prototipo, enfocado en la agilidad y la autonomía. Incorpora nuevas tecnologías de visión artificial y navegación.
     design:
-      columns: "1"
+      columns: 1
+      background:
+        image:
+          filename: robots/robot_1.png
+          filters:
+            brightness: 0.75
+        text_color_light: true
 
-  - block: features
-    id: team
+  - block: people
     content:
-      title: Our Team
-      subtitle: Conoce a los miembros
-      items:
-        - name: Hardware Team
-          description: Los constructores.
-          icon: tools
-          icon_pack: fas
-        - name: Software Team
-          description: Los programadores.
-          icon: laptop-code
-          icon_pack: fas
-        - name: Communication Team
-          description: La voz del equipo.
-          icon: comments
-          icon_pack: fas
-    design:
-      columns: "3"
-      view: card
+      title: "Nuestro Equipo"
+      user_groups:
+        - name: Mentores
 
   - block: markdown
     id: sponsors
     content:
-      title: Sponsors
+      title: Patrocinadores
       subtitle: Gracias a nuestros patrocinadores
       text: |
         <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -111,7 +98,7 @@ sections:
           <img src="logos_y_fondos/Sponsors-26.png" alt="Sponsor 3" style="height: 100px;">
         </div>
     design:
-      columns: "1"
+      columns: 1
 
   - block: contact
     id: contact

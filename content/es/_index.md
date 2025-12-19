@@ -89,9 +89,9 @@ sections:
       title: Nuestro Equipo
       user_groups:
         - Coordinadores
-        - Mentores
         - Jefes de Equipo
         - Jefes de Departamento
+        - Mentores
         - Hardware
         - Software
         - Comunicación

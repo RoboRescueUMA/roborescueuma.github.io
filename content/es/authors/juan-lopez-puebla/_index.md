@@ -1,4 +1,5 @@
 ---
+translationKey: juan-lopez-puebla
 title: Juan López Puebla
 first_name: Juan
 last_name: _López

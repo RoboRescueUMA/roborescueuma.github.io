@@ -1,4 +1,5 @@
 ---
+translationKey: mario-garcia-jimenez
 # Display name
 title: Mario García Jiménez
 

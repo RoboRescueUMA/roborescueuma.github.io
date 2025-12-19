@@ -1,4 +1,5 @@
 ---
+translationKey: jesus-manuel-gomez-de-gabriel
 # Display name
 title: Jesús Manuel Gómez de Gabriel
 

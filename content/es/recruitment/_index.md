@@ -2,6 +2,7 @@
 title: Recruitment
 date: 2022-10-24
 type: landing
+translationKey: recruitment
 
 sections:
   - block: markdown

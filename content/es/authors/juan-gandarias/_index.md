@@ -1,4 +1,5 @@
 ---
+translationKey: juan-gandarias
 # Display name
 title: Juan M. Gandarias
 

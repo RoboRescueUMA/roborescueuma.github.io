@@ -1,4 +1,5 @@
 ---
+translationKey: ignacio-gonzalez-prieto
 # Display name
 title: Ignacio González Prieto
 

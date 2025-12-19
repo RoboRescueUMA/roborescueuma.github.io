@@ -1,4 +1,5 @@
 ---
+translationKey: ricardo-vazquez
 # Display name
 title: Ricardo Vázquez Martín
 

@@ -1,4 +1,5 @@
 ---
+translationKey: jose-pablo-recano
 # Display name
 title: Jose Pablo Recaño
 

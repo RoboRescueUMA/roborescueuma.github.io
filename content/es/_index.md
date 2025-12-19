@@ -2,6 +2,7 @@
 title: RoboRescue UMA
 date: 2022-10-24
 type: landing
+translationKey: home
 
 sections:
   - block: hero

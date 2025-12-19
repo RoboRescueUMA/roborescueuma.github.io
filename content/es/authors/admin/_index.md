@@ -22,9 +22,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:aj@uma.es'
-  - icon: x-twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/antonio-jos%C3%A9-mu%C3%B1oz-ram%C3%ADrez-25004b120/

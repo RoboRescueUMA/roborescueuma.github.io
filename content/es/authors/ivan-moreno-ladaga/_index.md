@@ -1,4 +1,5 @@
 ---
+translationKey: ivan-moreno-ladaga
 # Display name
 title: Iván Moreno Ladaga
 

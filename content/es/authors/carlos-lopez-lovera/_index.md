@@ -1,4 +1,5 @@
 ---
+translationKey: carlos-lopez-lovera
 # Display name
 title: Carlos López Lovera
 

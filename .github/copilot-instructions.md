@@ -1,9 +1,9 @@
-# RoboRescue UMA Repo Instructions
+# STAR UMA Repo Instructions
 
-This repository contains the source code for the RoboRescue UMA website, built with [HugoBlox](https://hugoblox.com/) using the [Research Group](https://github.com/HugoBlox/theme-research-group) theme.
+This repository contains the source code for the STAR UMA website, built with [HugoBlox](https://hugoblox.com/) using the [Research Group](https://github.com/HugoBlox/theme-research-group) theme.
 
 ## General Context
-- **Project**: RoboRescue UMA (University of Málaga student team).
+- **Project**: STAR UMA (University of Málaga student team).
 - **Technology**: Hugo, HugoBlox (formerly Wowchemy).
 - **Languages**: Multilingual (Spanish `es` as default, English `en`).
 - **Content Structure**: `content/es/` for Spanish and `content/en/` for English.

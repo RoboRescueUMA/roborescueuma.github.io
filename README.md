@@ -1,4 +1,4 @@
-# [Página web de STAR UMA](https://www.star.uma.es)
+# [Página web de STAR UMA](https://staruma.github.io)
 
 [![Deploy Status](https://github.com/STARUMA/staruma.github.io/actions/workflows/publish.yaml/badge.svg)](https://github.com/STARUMA/staruma.github.io/actions/workflows/publish.yaml)
 

@@ -1,32 +1,41 @@
-# Migracion definitiva a STARUMA/staruma.github.io
+# Migracion de URL con organizacion star-uma
 
-Este documento deja listos los pasos para publicar en `https://staruma.github.io`.
+Este documento resume el estado real tras renombrar la organizacion a `star-uma`.
 
 ## Estado actual del repositorio
 
-- El repo local ya esta preparado para la URL final (`baseURL` en `config/_default/hugo.yaml`).
+- La organizacion ya fue renombrada a `star-uma`.
+- El sitio publicado en GitHub Pages responde en `https://star-uma.github.io/staruma.github.io/`.
 - El workflow de Pages esta configurado para Node 24 (`FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true`).
 
-## Pasos en GitHub (manuales)
+## Sobre `https://staruma.github.io`
 
-1. Crear (o confirmar) la organizacion `STARUMA`.
-2. Transferir el repositorio actual a la organizacion `STARUMA` con el mismo nombre `staruma.github.io`.
-3. En el repo transferido, abrir `Settings > Pages`.
-4. En `Build and deployment`, seleccionar `Source: GitHub Actions`.
-5. Esperar al primer run de `publish.yaml` en la rama `main`.
-6. Verificar que la URL publicada sea `https://staruma.github.io/`.
+Para usar `https://staruma.github.io` como URL raiz de GitHub Pages, el owner debe ser exactamente `staruma` y el repo debe llamarse `staruma.github.io`.
 
-## Paso local tras la transferencia
+Con owner `star-uma`, GitHub Pages de usuario/organizacion no puede publicar en `staruma.github.io`.
 
-Una vez exista el nuevo repo en GitHub, ejecutar:
+Opciones reales:
+
+1. Mantener URL de proyecto: `https://star-uma.github.io/staruma.github.io/`.
+2. Renombrar repo a `star-uma.github.io` para usar `https://star-uma.github.io/`.
+3. Usar dominio personalizado externo (por ejemplo `www.star.uma.es`).
+
+## Paso local recomendado
+
+Actualizar el remoto local para evitar depender de redirecciones:
 
 ```powershell
-git remote set-url origin git@github.com:STARUMA/staruma.github.io.git
+git remote set-url origin git@github.com:star-uma/staruma.github.io.git
 git remote -v
 ```
 
 ## Verificacion final
 
-- `https://staruma.github.io/` debe responder 200.
+- `https://star-uma.github.io/staruma.github.io/` debe responder 200.
 - El workflow `Deploy website to GitHub Pages` debe terminar en `Success`.
-- No debe aparecer el sufijo de proyecto (`/staruma.github.io/`) en la URL.
+
+
+## Notas
+
+- Si usas una cuenta gratuita de GitHub Team/Enterprise no es necesaria para esto; basta con permisos de propietario de la organizacion.
+- El rename de organizacion puede tardar unos minutos en reflejarse en Pages y en la URL del repo.

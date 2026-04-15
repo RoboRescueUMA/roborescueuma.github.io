@@ -12,7 +12,7 @@ baseURL: "https://star-uma.github.io/" # Website URL
 
 defaultContentLanguage: es
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################

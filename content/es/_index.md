@@ -79,7 +79,7 @@ sections:
       columns: 1
       background:
         image:
-          filename: robots/robot_1.png
+          filename: horu/horu_1.jpg
           filters:
             brightness: 0.75
         text_color_light: true

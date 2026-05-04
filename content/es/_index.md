@@ -10,132 +10,80 @@ sections:
     content:
       title: STAR UMA
       text: |
-        Somos un equipo compuesto por estudiantes de diversos ámbitos pertenecientes a la Universidad de Málaga unidos con un fin común. Nos dedicamos al desarrollo tecnológico-robótico de rescate.
+        Student Team of Advanced Robotics — Universidad de Málaga.
+        Diseñamos y construimos robots para retos de rescate, autonomía y competición internacional.
       cta:
-        label: Conoce más
-        url: "#about"
+        label: Conócenos
+        url: /sobre-nosotros/
         icon_pack: fas
-        icon: arrow-down
+        icon: arrow-right
     design:
       background:
         image:
-          filename: donatello/donatello_mejor_foto.jpg
+          filename: rebranding/general/foto_equipo_curso2526.jpeg
           filters:
-            brightness: 0.75
+            brightness: 0.6
         text_color_light: true
-
-  - block: features
-    id: about
-    content:
-      title: Sobre Nosotros
-      subtitle: Nuestros Departamentos
-      items:
-        - name: Hardware
-          description: Diseño y construcción de robots.
-          icon: microchip
-          icon_pack: fas
-        - name: Software
-          description: Inteligencia y control.
-          icon: code
-          icon_pack: fas
-        - name: Comunicación
-          description: Difusión y redes sociales.
-          icon: bullhorn
-          icon_pack: fas
-        - name: Mentores
-          description: Guía y apoyo experto.
-          icon: chalkboard-teacher
-          icon_pack: fas
-        - name: Web
-          description: Desarrollo y mantenimiento de la web.
-          icon: code
-          icon_pack: fas
-    design:
-      columns: 2
-      view: showcase
-
-  - block: hero
-    id: donatello
-    content:
-      title: DONATELLO
-      text: |
-        Donatello es nuestro robot insignia, diseñado para operar en entornos hostiles y realizar tareas de rescate. Cuenta con un sistema de tracción avanzado y sensores de última generación.
-    design:
-      background:
-        image:
-          filename: donatello/donatello_9.jpg
-          filters:
-            brightness: 0.75
-        text_color_light: true
-
-  - block: hero
-    id: horu
-    content:
-      title: HORU
-      subtitle: El Futuro del Rescate
-      text: |
-        HORU es nuestro nuevo prototipo, enfocado en la agilidad y la autonomía. Incorpora nuevas tecnologías de visión artificial y navegación.
-    design:
-      columns: 1
-      background:
-        image:
-          filename: horu/horu_1.jpg
-          filters:
-            brightness: 0.75
-        text_color_light: true
-
-  - block: people
-    content:
-      title: Nuestro Equipo
-      user_groups:
-        - Coordinadores
-        - Jefes de Equipo
-        - Jefes de Departamento
-        - Mentores
-        - Hardware
-        - Software
-        - Comunicación
-        - Marketing
-        - Web
-        - Antiguos miembros
-        - Profesores colaboradores
-      sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      show_interests: false
-      show_role: true
-      show_social: true
 
   - block: markdown
-    id: sponsors
+    id: explore
     content:
-      title: Patrocinadores
-      subtitle: Gracias a nuestros patrocinadores
+      title: Explora STAR UMA
+      subtitle: Descubre el equipo, los robots y nuestros logros
       text: |
-        <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-          <img src="logos_y_fondos/Sponsors-24.png" alt="Sponsor 1" style="height: 100px;">
-          <img src="logos_y_fondos/Sponsors-25.png" alt="Sponsor 2" style="height: 100px;">
-          <img src="logos_y_fondos/Sponsors-26.png" alt="Sponsor 3" style="height: 100px;">
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; margin: 0 auto; max-width: 1200px;">
+
+          <a href="/sobre-nosotros/" style="text-decoration: none;">
+            <div style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
+              <div style="font-size: 2.4rem;">👥</div>
+              <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">Sobre Nosotros</h3>
+              <p style="margin: 0; font-size: 0.95rem; color: #555;">Quiénes somos y cómo nos organizamos.</p>
+            </div>
+          </a>
+
+          <a href="/donatello/" style="text-decoration: none;">
+            <div style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
+              <div style="font-size: 2.4rem;">🤖</div>
+              <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">Donatello</h3>
+              <p style="margin: 0; font-size: 0.95rem; color: #555;">Nuestro robot insignia de rescate.</p>
+            </div>
+          </a>
+
+          <a href="/horu/" style="text-decoration: none;">
+            <div style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
+              <div style="font-size: 2.4rem;">⚙️</div>
+              <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">HORU</h3>
+              <p style="margin: 0; font-size: 0.95rem; color: #555;">El nuevo prototipo autónomo.</p>
+            </div>
+          </a>
+
+          <a href="/competiciones/" style="text-decoration: none;">
+            <div style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
+              <div style="font-size: 2.4rem;">🏆</div>
+              <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">Competiciones</h3>
+              <p style="margin: 0; font-size: 0.95rem; color: #555;">GDVC, Eurobot Spain, Sener…</p>
+            </div>
+          </a>
+
+          <a href="/eventos/" style="text-decoration: none;">
+            <div style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
+              <div style="font-size: 2.4rem;">🎤</div>
+              <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">Eventos</h3>
+              <p style="margin: 0; font-size: 0.95rem; color: #555;">Divulgación, ferias y jornadas.</p>
+            </div>
+          </a>
+
+          <a href="/equipo/" style="text-decoration: none;">
+            <div style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
+              <div style="font-size: 2.4rem;">🧑‍🔬</div>
+              <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">Nuestro Equipo</h3>
+              <p style="margin: 0; font-size: 0.95rem; color: #555;">Las personas que hacen STAR posible.</p>
+            </div>
+          </a>
+
         </div>
     design:
-      columns: 1
-
-  - block: contact
-    id: contact
-    content:
-      title: Contacto
-      subtitle: Encuéntranos
-      email: info@roborescueuma.com
-      address:
-        street: Bulevar Louis Pasteur, 35
-        city: Málaga
-        region: Málaga
-        postcode: "29071"
-        country: Spain
-        country_code: ES
-      coordinates:
-        latitude: "36.715"
-        longitude: "-4.478"
-    design:
-      columns: "2"
+      columns: '1'
+      spacing:
+        padding: ['60px', '0', '60px', '0']
 ---

@@ -1,33 +1,34 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+#   Cada enlace lleva a su propia página dentro de content/es/.
 
 main:
   - name: Inicio
-    url: '#inicio'
+    url: /
     weight: 10
-  - name: About Us
-    url: '#about'
+  - name: Sobre Nosotros
+    url: /sobre-nosotros/
     weight: 20
   - name: Donatello
-    url: '#donatello'
+    url: /donatello/
     weight: 30
   - name: HORU
-    url: '#horu'
+    url: /horu/
     weight: 40
-  - name: Our Team
-    url: '#team'
+  - name: Competiciones
+    url: /competiciones/
     weight: 50
-  - name: Sponsors
-    url: '#sponsors'
+  - name: Eventos
+    url: /eventos/
     weight: 60
-  - name: Gallery
-    url: gallery
+  - name: Nuestro Equipo
+    url: /equipo/
     weight: 70
-  - name: Recruitment
-    url: recruitment
+  - name: Galería
+    url: /gallery/
     weight: 80
-  - name: Contact
-    url: '#contact'
+  - name: Reclutamiento
+    url: /recruitment/
     weight: 90
+  - name: Contacto
+    url: /contacto/
+    weight: 100

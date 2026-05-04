@@ -5,6 +5,7 @@
 
 title: STAR UMA # Website name
 baseURL: "https://star-uma.github.io/" # Website URL
+buildFuture: true
 
 ############################
 ## LANGUAGE

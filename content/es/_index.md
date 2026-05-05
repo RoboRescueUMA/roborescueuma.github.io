@@ -20,7 +20,7 @@ sections:
     design:
       background:
         image:
-          filename: rebranding/general/banner.png
+          filename: rebranding/general/banner.jpg
           filters:
             brightness: 0.6
         text_color_light: true

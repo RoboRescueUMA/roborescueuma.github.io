@@ -20,7 +20,7 @@ sections:
     design:
       background:
         image:
-          filename: rebranding/general/foto_equipo_curso2526.jpeg
+          filename: rebranding/general/banner.png
           filters:
             brightness: 0.6
         text_color_light: true

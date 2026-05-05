@@ -24,9 +24,11 @@ sections:
   - block: markdown
     id: horu-info
     content:
-      title: Una nueva generación
-      subtitle: Tracción por orugas para conquistar terrenos imposibles
       text: |
+        <div style="text-align: center; max-width: 880px; margin: 0 auto 2rem auto;">
+          <h2 style="margin: 0 0 6px 0; font-size: 2rem;">Una nueva generación</h2>
+          <p style="margin: 0; font-size: 1.1rem; opacity: 0.85;">Tracción por orugas para conquistar terrenos imposibles</p>
+        </div>
         <div style="max-width: 1100px; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
           <div style="flex: 1 1 380px;">
             <img src="/media/horu/horu_1.jpg" alt="HORU" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);">
@@ -46,5 +48,39 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['40px', '0', '60px', '0']
+        padding: ['40px', '0', '40px', '0']
+
+  - block: markdown
+    id: horu-specs
+    content:
+      text: |
+        <div style="text-align: center; max-width: 880px; margin: 0 auto 2rem auto;">
+          <h2 style="margin: 0 0 6px 0; font-size: 2rem;">Características clave</h2>
+          <p style="margin: 0; font-size: 1.1rem; opacity: 0.85;">Lo que diferencia a HORU</p>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto;">
+
+          <div style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 24px 22px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); text-align: center; border-top: 4px solid #4a90e2;">
+            <div style="font-size: 2.2rem; margin-bottom: 8px;">⚙️</div>
+            <h4 style="margin: 0 0 6px 0; color: #1a1a1a;">Orugas propias</h4>
+            <p style="margin: 0; font-size: 0.92rem; color: #555;">HORU cuenta con un sistema de orugas diseñado y fabricado íntegramente por nuestro equipo. Este mecanismo ha sido optimizado al milímetro para garantizar la máxima movilidad y adherencia, permitiendo al robot desenvolverse con soltura en los terrenos más irregulares y complejos.</p>
+          </div>
+
+          <div style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 24px 22px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); text-align: center; border-top: 4px solid #4a90e2;">
+            <div style="font-size: 2.2rem; margin-bottom: 8px;">⚡</div>
+            <h4 style="margin: 0 0 6px 0; color: #1a1a1a;">Máxima robustez y potencia</h4>
+            <p style="margin: 0; font-size: 0.92rem; color: #555;">Lejos de buscar un diseño ligero, HORU posee un chasis reforzado y un mayor peso estructural. Esta es una decisión de ingeniería concebida específicamente para dotar al robot de una fuerza superior y una estabilidad inquebrantable, cualidades indispensables para llevar a cabo tareas de alta exigencia mecánica y manipulación pesada.</p>
+          </div>
+
+          <div style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 24px 22px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); text-align: center; border-top: 4px solid #4a90e2;">
+            <div style="font-size: 2.2rem; margin-bottom: 8px;">👁️</div>
+            <h4 style="margin: 0 0 6px 0; color: #1a1a1a;">Arquitectura nativa en ROS</h4>
+            <p style="margin: 0; font-size: 0.92rem; color: #555;">El cerebro y el control de HORU no son una adaptación posterior. El robot ha sido pensado y desarrollado desde sus cimientos para integrarse a la perfección con el ecosistema Robot Operating System (ROS). Esta integración nativa maximiza su inteligencia, facilita la implementación de algoritmos complejos y le otorga una versatilidad sin precedentes.</p>
+          </div>
+
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['40px', '0', '40px', '0']
 ---

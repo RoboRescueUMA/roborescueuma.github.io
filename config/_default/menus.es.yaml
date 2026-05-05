@@ -23,12 +23,9 @@ main:
   - name: Nuestro Equipo
     url: /equipo/
     weight: 70
-  - name: Galería
-    url: /gallery/
-    weight: 80
   - name: Reclutamiento
     url: /recruitment/
     weight: 90
-  - name: Contacto
-    url: /contacto/
-    weight: 100
+ # - name: Contacto
+   # url: /contacto/
+    #weight: 100

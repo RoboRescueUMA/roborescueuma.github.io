@@ -82,5 +82,21 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['60px', '0', '80px', '0']
+        padding: ['40px', '0', '60px', '0']
+
+  - block: markdown
+    id: competiciones-cita
+    content:
+      text: |
+        <div style="max-width: 900px; margin: 0 auto; background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 14px; padding: 36px 32px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); text-align: center; position: relative;">
+          <div style="font-size: 3.5rem; line-height: 0.6; color: #ffd700; opacity: 0.6;">"</div>
+          <p style="font-size: 1.2rem; line-height: 1.6; font-style: italic; margin: 0 auto 16px auto; max-width: 720px; color: #1a1a1a;">
+            Cada competición es un examen brutal y honesto: pone a prueba lo que sabemos, lo que somos como equipo y hasta dónde queremos llegar.
+          </p>
+          <div style="font-size: 0.95rem; color: #555; font-weight: 600;">— STAR UMA</div>
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['0', '0', '60px', '0']
 ---

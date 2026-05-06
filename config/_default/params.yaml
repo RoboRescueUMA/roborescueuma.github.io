@@ -33,6 +33,7 @@ hugoblox:
     align: center
     search: true
     theme_toggle: true
+    language_switcher: true
   footer:
     style: minimal
     language_switcher: true

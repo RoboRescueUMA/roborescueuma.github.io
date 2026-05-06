@@ -17,17 +17,24 @@ Las tareas pendientes, en orden de prioridad, son:
 - [ ] Crear un archivo [copilot-instructions.md](https://docs.github.com/es/copilot/how-tos/configure-custom-instructions/add-repository-instructions) para GitHub Copilot
 - [ ] **Diseño y Distribución**:
     - [ ] **Página principal**:
-        - [ ] Header: logo del equipo a la izquierda y menú a la derecha (enlaces a secciones)
-        - [ ] Inicio: Foto en grande del robot Donatello
-        - [ ] About us: Secciones Hardware, Software, Comunicación y Mentores con fotos al pasar el ratón
-        - [ ] Donatello: Información detallada del robot
-        - [ ] HORU: Información detallada del robot
+        - [x] Header: logo del equipo a la izquierda y menú a la derecha (enlaces a secciones)
+        - [x] Inicio: Foto en grande del robot Donatello
+            - > Yegor: en vez de la foto de Donatello he colocado el logo del equipo al ser un apartado más general
+        - [x] About us: Secciones Hardware, Software, Comunicación y Mentores con fotos al pasar el ratón
+            - > Yegor: La sección está hecha con una foto del equipo y su historia.
+        - [x] Donatello: Información detallada del robot
+            - > Yegor: ¡IMPORTANTE! No hay fotos actualizadas
+        - [x] HORU: Información detallada del robot
+            - > Yegor: estaría bien añadir más fotos
         - [ ] Our Team: Resumen de departamentos, perfiles de miembros interactivos
+            - > Yegor: no se ha alterado. Habría que discutir cómo lo hacemos para mantener esta sección actualizada
         - [ ] Sponsors: Sección de patrocinadores
+            - > Yegor: de momento he quitado esta sección ya que estaba vacía (por desgracia)
         - [ ] Map / Contact: Mapa interactivo y formulario de contacto
     - [ ] **Otras Páginas**:
         - [ ] Gallery: Galería de fotos
-        - [ ] Recruitment: Página de reclutamiento con formulario
+        - [x] Recruitment: Página de reclutamiento con formulario
+            - > Yegor: el aspecto visual está hecho, incluidas motivaciones para unirse. Pero el formulario al que lleva el enlace no sé cómo de atendido está (imagino que poco o nada). De momento dejo la sección accesible pero habría que discutirlo
 
 
 ## Información técnica

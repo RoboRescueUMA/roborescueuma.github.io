@@ -1,21 +1,28 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+# Navigation Links - English
+#   Each link points to its own page inside content/en/.
 
 main:
   - name: Home
-    url: /
+    url: /en/
     weight: 10
-  - name: About
-    url: about
+  - name: About Us
+    url: /en/about/
     weight: 20
-  - name: Team
-    url: team
+  - name: Donatello
+    url: /en/donatello/
     weight: 30
-  - name: Organizational Chart
-    url: organigrama
-    weight: 35
-  - name: Contact
-    url: contact
+  - name: HORU
+    url: /en/horu/
     weight: 40
+  - name: Competitions
+    url: /en/competitions/
+    weight: 50
+  - name: Events
+    url: /en/events/
+    weight: 60
+  - name: Our Team
+    url: /en/team/
+    weight: 70
+  - name: Recruitment
+    url: /en/recruitment/
+    weight: 90

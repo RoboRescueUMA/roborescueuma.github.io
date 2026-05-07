@@ -13,6 +13,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Antiguos miembros
+  - Alumni
 ---
 
 Su paso por el equipo será recordado con cariño, ya que gracias a los que trabajaron en el pasado hemos llegado a ser lo que somos. 

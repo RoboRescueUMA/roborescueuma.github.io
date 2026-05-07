@@ -23,6 +23,7 @@ organizations:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Coordinadores
+  - Coordinators
 ---
 
 Check my personal website [here!](https://jmgandarias.com)

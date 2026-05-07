@@ -1,36 +1,64 @@
 ---
 title: Recruitment
-translationKey: recruitment
 date: 2022-10-24
 type: landing
+translationKey: recruitment
 
 sections:
+  # BLOCK 1: The Hook (Hero)
   - block: hero
-    id: recruitment-hero
     content:
-      title: Join STAR UMA
+      title: "Build the Future with STAR UMA"
+      subtitle: "We're looking for curious minds, not just experts. Dare to take the University of Málaga's robotics to the very top?"
       text: |
-        We are looking for students passionate about robotics, eager to learn and build things that move, think and decide.
+        At STAR we don't just build robots; we forge engineers and professionals ready for the real world. If you are passionate about technology and extreme challenges, this is your place.
+        
+        <br><br>
+        <a href="https://forms.gle/wGeDcg52BzjjMgvU8" class="btn btn-primary btn-lg" style="background-color: #000000; color: #ffffff; border: 2px solid #ffffff; text-decoration: none;">I want my spot on the team!</a>
     design:
       background:
-        color: '#1a1a1a'
+        image:
+          filename: rebranding/general/banner_oscuro.jpg
+          filters:
+            brightness: 0.55
         text_color_light: true
 
-  - block: markdown
-    id: recruitment-content
+  # BLOCK 2: Why join? (Features)
+  - block: features
     content:
+      title: "What you'll experience with us"
+      subtitle: "Much more than just a university credit"
+      items:
+        - name: "Real Engineering"
+          description: "Forget the blackboard. Here you will design, solder and program complex systems that work in real environments."
+          icon: wrench
+          icon_pack: fas
+        - name: "Elite Competition"
+          description: "Travel with the team and put your work to the test against the best universities in the world."
+          icon: trophy
+          icon_pack: fas
+        - name: "Cutting-Edge Tech"
+          description: "Master the ROS ecosystem, advanced 3D printing, computer vision and industrial control systems."
+          icon: microchip
+          icon_pack: fas
+        - name: "Community"
+          description: "Join a family of technology and robotics enthusiasts. Connect with people who share your interests."
+          icon: users
+          icon_pack: fas
+    design:
+      columns: 3  # Same layout decision as the Spanish version
+
+  # BLOCK 3: Final call to action (CTA / Markdown)
+  - block: markdown
+    content:
+      title: "Questions about the process?"
+      subtitle: "Whatever your year or degree, what we look for is attitude."
       text: |
-        <div style="max-width: 800px; margin: 0 auto; text-align: center;">
-          <h2 style="margin: 0 0 12px 0; font-size: 2rem;">Want to be part of the team?</h2>
-          <p style="font-size: 1.1rem; line-height: 1.6;">
-            STAR UMA welcomes students from all degrees of the University of Málaga. We work in multidisciplinary teams: hardware, software, communication, web, mentoring… If you want to learn by doing, this is your place.
-          </p>
-          <p style="font-size: 1.05rem; line-height: 1.6; margin-top: 1.5rem;">
-            For more information, write to us at <a href="mailto:roborescue@uma.es" style="color: #4a90e2;">roborescue@uma.es</a> or follow us on social media to stay up to date with our recruitment processes.
-          </p>
-        </div>
+        We are looking for all kinds of profiles: mechanics, electronics, software, communication, web management and more. The only requirement is the willingness to learn and commitment to the team.
+        
+        {{% cta cta_link="https://forms.gle/wGeDcg52BzjjMgvU8" cta_text="Fill out the application form" %}}
     design:
       columns: '1'
-      spacing:
-        padding: ['40px', '0', '60px', '0']
+      background:
+        color: '#1a1a1a'
 ---

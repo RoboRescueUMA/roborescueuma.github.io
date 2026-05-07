@@ -35,4 +35,5 @@ email: ''
 highlight_name: false
 user_groups:
   - Coordinadores
+  - Coordinators
 ---

@@ -16,6 +16,7 @@ education:
 highlight_name: false
 user_groups:
   - Jefes de Departamento
+  - Department Heads
 ---
 
 

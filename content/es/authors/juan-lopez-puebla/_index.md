@@ -32,4 +32,5 @@ email: ''
 highlight_name: false
 user_groups:
   - Jefes de Equipo
+  - Team Leaders
 ---

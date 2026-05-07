@@ -14,6 +14,7 @@ role: Departamento de Ingeniería Eléctrica
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Profesores colaboradores
+  - Collaborating Professors
 ---
 
 Agradecemos a todos los profesores que han hecho posible este proyecto.

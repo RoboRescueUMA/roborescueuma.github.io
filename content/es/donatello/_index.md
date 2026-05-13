@@ -30,7 +30,7 @@ sections:
         </div>
         <div style="max-width: 1100px; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
           <div style="flex: 1 1 380px;">
-            <img src="/media/donatello/donatello_9.jpg" alt="Donatello" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);">
+            <img src="/media/rebranding/Donatello/donatello_4_ruedas.jpg" alt="Donatello" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);">
           </div>
           <div style="flex: 1 1 380px;">
             <p style="font-size: 1.05rem; line-height: 1.65;">
@@ -97,7 +97,7 @@ sections:
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; max-width: 1100px; margin: 0 auto;">
           <img src="/media/donatello/donatello_1.jpg" alt="Donatello 1" style="width:100%; height:220px; object-fit:cover; border-radius:8px;">
           <img src="/media/donatello/donatello_2.jpg" alt="Donatello 2" style="width:100%; height:220px; object-fit:cover; border-radius:8px;">
-          <img src="/media/donatello/donatello_3.jpg" alt="Donatello 3" style="width:100%; height:220px; object-fit:cover; border-radius:8px;">
+          <img src="/media/rebranding/Donatello/donatello_4_ruedas1.jpg" alt="Donatello 3" style="width:100%; height:220px; object-fit:cover; border-radius:8px;">
           <img src="/media/donatello/donatello_4.jpg" alt="Donatello 4" style="width:100%; height:220px; object-fit:cover; border-radius:8px;">
           <img src="/media/donatello/donatello_5.jpg" alt="Donatello 5" style="width:100%; height:220px; object-fit:cover; border-radius:8px;">
           <img src="/media/donatello/donatello_6.jpg" alt="Donatello 6" style="width:100%; height:220px; object-fit:cover; border-radius:8px;">

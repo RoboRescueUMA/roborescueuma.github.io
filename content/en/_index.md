@@ -40,53 +40,45 @@ sections:
           <p style="margin: 0; font-size: 1.1rem; opacity: 0.85;">Discover the team, the robots and our achievements</p>
         </div>
 
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; margin: 0 auto; max-width: 1200px;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 0 auto; max-width: 1200px;">
 
-          <a href="/en/about/" style="text-decoration: none;">
-            <div class="star-card" style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
+          <a href="/en/about/" style="text-decoration: none; width: 325px; display:flex">
+            <div class="star-card" style="flex:1;background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
               <div style="font-size: 2.4rem;">👥</div>
               <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">About Us</h3>
               <p style="margin: 0; font-size: 0.95rem; color: #555;">Who we are and how we are organised.</p>
             </div>
           </a>
 
-          <a href="/en/donatello/" style="text-decoration: none;">
-            <div class="star-card" style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
+          <a href="/en/donatello/" style="text-decoration: none; width: 325px; display:flex">
+            <div class="star-card" style="flex:1;background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
               <div style="font-size: 2.4rem;">🤖</div>
               <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">Donatello</h3>
               <p style="margin: 0; font-size: 0.95rem; color: #555;">Our flagship rescue robot.</p>
             </div>
           </a>
 
-          <a href="/en/horu/" style="text-decoration: none;">
-            <div class="star-card" style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
+          <a href="/en/horu/" style="text-decoration: none; width: 325px; display:flex">
+            <div class="star-card" style="flex:1;background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
               <div style="font-size: 2.4rem;">⚙️</div>
               <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">HORU</h3>
               <p style="margin: 0; font-size: 0.95rem; color: #555;">Track-based traction for difficult terrain.</p>
             </div>
           </a>
 
-          <a href="/en/competitions/" style="text-decoration: none;">
-            <div class="star-card" style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
+          <a href="/en/competitions/" style="text-decoration: none; width: 325px; display:flex">
+            <div class="star-card" style="flex:1;background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
               <div style="font-size: 2.4rem;">🏆</div>
               <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">Competitions</h3>
               <p style="margin: 0; font-size: 0.95rem; color: #555;">GDVC, Eurobot Spain, Sener…</p>
             </div>
           </a>
 
-          <a href="/en/events/" style="text-decoration: none;">
-            <div class="star-card" style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
+          <a href="/en/events/" style="text-decoration: none; width: 325px; display:flex">
+            <div class="star-card" style="flex:1;background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
               <div style="font-size: 2.4rem;">🎤</div>
               <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">Events</h3>
               <p style="margin: 0; font-size: 0.95rem; color: #555;">Outreach, fairs and conferences.</p>
-            </div>
-          </a>
-
-          <a href="/en/team/" style="text-decoration: none;">
-            <div class="star-card" style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
-              <div style="font-size: 2.4rem;">🧑‍🔬</div>
-              <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">Our Team</h3>
-              <p style="margin: 0; font-size: 0.95rem; color: #555;">The people who make STAR possible.</p>
             </div>
           </a>
 

@@ -1,7 +1,7 @@
 ---
 translationKey: team
 title: Equipo
-date: 2022-10-24
+date: 2022-10-24 
 description: "Miembros y roles del equipo STAR UMA: coordinación, hardware, software y más."
 
 type: landing

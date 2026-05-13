@@ -20,9 +20,9 @@ main:
   - name: Events
     url: /en/events/
     weight: 60
-  - name: Our Team
-    url: /en/team/
-    weight: 70
+  #- name: Our Team
+    #url: /en/team/
+    #weight: 70
   - name: Recruitment
     url: /en/recruitment/
     weight: 90

@@ -20,9 +20,9 @@ main:
   - name: Eventos
     url: /eventos/
     weight: 60
-  - name: Nuestro Equipo
-    url: /equipo/
-    weight: 70
+  #- name: Nuestro Equipo
+   # url: /equipo/
+    #weight: 70
   - name: Reclutamiento
     url: /recruitment/
     weight: 90

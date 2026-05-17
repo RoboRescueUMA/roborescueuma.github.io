@@ -26,6 +26,6 @@ main:
   - name: Reclutamiento
     url: /recruitment/
     weight: 90
- # - name: Contacto
-   # url: /contacto/
-    #weight: 100
+  - name: Contacto
+    url: /contacto/
+    weight: 100

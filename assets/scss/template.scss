@@ -20,3 +20,8 @@ body.page-wrapper .wg-people {
   flex-direction: column;
   justify-content: center;
 }
+
+// Forces ONLY this block to ignore the general 100vh
+body.page-wrapper #redes-contacto {
+  min-height: auto !important;
+}

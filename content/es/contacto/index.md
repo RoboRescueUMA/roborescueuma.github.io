@@ -11,9 +11,9 @@ sections:
     content:
       title: Contacto
       text: |-
-        Si eres un estudiante que quiere unirse a nuestro equipo, una empresa interesada en patrocinarnos o simplemente alguien con curiosidad por conocer nuestro proyecto, ¡no dudes en contactarnos!
+        Como equipo de estudiantes universitarios, siempre buscamos nuevo talento y colaboraciones. Si te interesa unirte, patrocinarnos como empresa o conocer más sobre nuestro proyecto, ¡no dudes en ponerte en contacto!
+
       email: roborescue@uma.es
-      # phone: (añade número de contacto aquí si se desea)
       address:
         street: Edificio de Ingenierías UMA, Arquitecto Francisco Peñalosa, 6
         city: Málaga
@@ -26,35 +26,35 @@ sections:
         longitude: '-4.49056'
       directions: Entra en la nave y gira a la izquierda, la primera puerta Taller 27
       office_hours:
-        - 'Martes de 15:00 a 18:00'
-        - 'Jueves de 15:00 a 16:15'
-      # appointment_url: 'https://calendly.com' # No implementado
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-
-      # Automatically link email and phone or display as text?
+        - 'De lunes a viernes de 8:00 a 21:15'
+        - |-
+          <br>
+          <div style="max-width: 1100px; margin: 0 auto; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
+            <iframe
+              src="https://www.google.com/maps?q=36.71549,-4.49056&hl=es&z=17&output=embed"
+              width="100%"
+              height="420"
+              style="border:0;"
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+          </div>
       autolink: true
-
-      # Email form provider
       form:
         provider: netlify
-        formspree:
-          id:
         netlify:
-          # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
       columns: '1'
-
+      spacing:
+        padding: ['10px', '0', '60px', '0']
   - block: markdown
     id: redes-contacto
     content:
       text: |
         <style>
-          .social-icon-c { transition: transform 0.18s ease; }
+          .social-icon-c { transition: transform .18s ease; }
           .social-icon-c:hover { transform: scale(1.08); }
         </style>
         <div style="text-align: center; max-width: 800px; margin: 0 auto;">
@@ -75,4 +75,5 @@ sections:
       columns: '1'
       spacing:
         padding: ['30px', '0', '50px', '0']
+
 ---

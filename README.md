@@ -31,6 +31,7 @@ Las tareas pendientes, en orden de prioridad, son:
         - [ ] Sponsors: Sección de patrocinadores
             - > Yegor: de momento he quitado esta sección ya que estaba vacía (por desgracia)
         - [ ] Map / Contact: Mapa interactivo y formulario de contacto
+            - > Lili: en español está hecha, quedaría traducirla a inglés. No se qué ocurre cuando alguien rellena el formulario de contactarnos
     - [ ] **Otras Páginas**:
         - [ ] Gallery: Galería de fotos
         - [x] Recruitment: Página de reclutamiento con formulario

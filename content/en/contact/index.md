@@ -26,16 +26,28 @@ sections:
       office_hours:
         - 'Tuesdays from 3:00 PM to 6:00 PM'
         - 'Thursdays from 3:00 PM to 4:15 PM'
+        - |-
+          <br>
+          <div style="max-width: 1100px; margin: 0 auto; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
+            <iframe
+              src="https://www.google.com/maps?q=36.71549,-4.49056&hl=es&z=17&output=embed"
+              width="100%"
+              height="420"
+              style="border:0;"
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+          </div>
       autolink: true
       form:
         provider: netlify
-        formspree:
-          id:
         netlify:
           captcha: false
-    design:
+      design:
       columns: '1'
-
+      spacing:
+        padding: ['10px', '0', '60px', '0']
   - block: markdown
     id: social-contact
     content:

@@ -24,12 +24,12 @@ main:
     #url: /en/team/
     #weight: 70
   #- name: Sponsors
-    #url: /en/.../
+    #url: /sponsors/
     #weight: 80
   - name: Recruitment
     url: /en/recruitment/
     weight: 90
-  # - name: Contact
-   # url: /contact/
-    #weight: 100
+  - name: Contact
+    url: /contact/
+    weight: 100
 

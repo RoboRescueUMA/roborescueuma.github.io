@@ -45,7 +45,7 @@ sections:
         provider: netlify
         netlify:
           captcha: false
-    design:
+    design:          # ← fuera del content, bien
       columns: '1'
       spacing:
         padding: ['10px', '0', '60px', '0']

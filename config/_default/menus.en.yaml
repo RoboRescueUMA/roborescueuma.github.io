@@ -23,6 +23,13 @@ main:
   #- name: Our Team
     #url: /en/team/
     #weight: 70
+  #- name: Sponsors
+    #url: /en/.../
+    #weight: 80
   - name: Recruitment
     url: /en/recruitment/
     weight: 90
+  # - name: Contact
+   # url: /contact/
+    #weight: 100
+

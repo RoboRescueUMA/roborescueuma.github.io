@@ -35,9 +35,7 @@ sections:
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 28px; margin: 2.5rem auto 0 auto; max-width: 1200px;">
 
           <div style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; overflow: hidden; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: flex; flex-direction: column;">
-            <video autoplay loop muted playsinline style="width: 100%; height: 220px; object-fit: cover;">
-              <source src="/media/rebranding/Competiciones/GDVC/video_gdvc.mp4" type="video/mp4">
-            </video>
+            <img src="/media/rebranding/Competiciones/GDVC/equipo_GDVC_25-26.jpg" alt="GDVC" style="width: 100%; height: 220px; object-fit: cover;">
             <div style="padding: 22px;">
               <div style="display: inline-block; background: #ffd700; color: #000; padding: 4px 10px; border-radius: 20px; font-weight: 700; font-size: 0.85rem; margin-bottom: 10px;">🥈 Subcampeones del mundo</div>
               <h3 style="margin: 0 0 10px 0; color: #1a1a1a;">Global Drone Virtual Competition 2026</h3>

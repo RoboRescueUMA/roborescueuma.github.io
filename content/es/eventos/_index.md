@@ -15,7 +15,7 @@ sections:
     design:
       background:
         image:
-          filename: rebranding/eventos/talent_land1.jpeg
+          filename: rebranding/eventos/noche_en_blanco_2026.JPG
           filters:
             brightness: 0.55
         text_color_light: true
@@ -64,6 +64,15 @@ sections:
             </div>
           </div>
 
+          <div style="background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; overflow: hidden; box-shadow: 0 4px 14px rgba(0,0,0,0.08);">
+            <img src="/media/rebranding/eventos/evento_noche_en_blanco.JPG" alt="Noche en Blanco" style="width: 100%; height: 220px; object-fit: cover;">
+            <div style="padding: 22px;">
+              <h3 style="margin: 0 0 10px 0; color: #1a1a1a;">🌕 Noche en Blanco</h3>
+              <p style="font-size: 0.97rem; line-height: 1.55; color: #1a1a1a;">
+               La Noche en Blanco es la gran fiesta de la <strong>cultura</strong> y la <strong>divulgación</strong> en Málaga. STAR UMA se suma a esta increíble cita llevando la tecnología a la calle para compartir el trabajo de nuestro equipo. Es la ocasión perfecta para mostrar de cerca nuestros proyectos, contagiar nuestra motivación y despertar la pasión por la robótica entre todos los asistentes.
+              </p>
+            </div>
+          </div>
         </div>
     design:
       columns: '1'

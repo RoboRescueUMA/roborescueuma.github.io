@@ -23,9 +23,9 @@ main:
   #- name: Nuestro Equipo
    # url: /equipo/
     #weight: 70
-  - name: Patrocinadores
-    url: /patrocinadores/
-    weight: 80
+  #- name: Patrocinadores
+    #url: /patrocinadores/
+    #weight: 80
   - name: Reclutamiento
     url: /recruitment/
     weight: 90

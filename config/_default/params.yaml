@@ -10,8 +10,8 @@ hugoblox:
   identity:
     name: STAR UMA
     type: organization
-    tagline: ""
-    description: ""
+    tagline: "Student Team of Advanced Robotics — Universidad de Málaga"
+    description: "STAR UMA (Student Team of Advanced Robotics) es el equipo de robótica de la Universidad de Málaga. Diseñamos y construimos robots para retos de rescate, autonomía y competición internacional."
   theme:
     mode: system
     pack: default

@@ -1,5 +1,6 @@
 ---
 title: STAR UMA
+description: "STAR UMA (Student Team of Advanced Robotics) es el equipo de robótica de estudiantes de la Universidad de Málaga. Diseñamos y construimos robots para retos de rescate, autonomía y competición internacional."
 date: 2022-10-24
 type: landing
 translationKey: home

@@ -66,6 +66,14 @@ sections:
             </div>
           </a>
 
+          <a href="/en/tfg/" style="text-decoration: none; width: 325px; display:flex">
+            <div class="star-card" style="flex:1;background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
+              <div style="font-size: 2.4rem;">🎓</div>
+              <h3 style="margin: 10px 0 6px 0; color: #1a1a1a;">TFGs</h3>
+              <p style="margin: 0; font-size: 0.95rem; color: #555;">Final Degree Projects that help the team grow.</p>
+            </div>
+          </a>
+
           <a href="/en/competitions/" style="text-decoration: none; width: 325px; display:flex">
             <div class="star-card" style="flex:1;background: #ffffff; color: #1a1a1a; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 28px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,0.08); height: 100%;">
               <div style="font-size: 2.4rem;">🏆</div>

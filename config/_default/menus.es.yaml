@@ -14,6 +14,9 @@ main:
   - name: HORU
     url: /horu/
     weight: 40
+  - name: TFGs
+    url: /tfg/
+    weight: 45
   - name: Competiciones
     url: /competiciones/
     weight: 50
